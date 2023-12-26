@@ -11,13 +11,13 @@ import jwt from "jsonwebtoken"
 const generateAccessandRefreshToken = async(userId) => {
     try {
         const user = await User.findById(userId);
-        console.log((user));
+        //console.log((user));
         const refreshToken = await user.generateRefreshToken();
 
         const accessToken = await user.generateAccessToken();
-        console.log((refreshToken, accessToken));
+        //console.log((refreshToken, accessToken));
 
-         user.refreshToken = refreshToken;
+        user.refreshToken = refreshToken;
         await user.save({validateBeforeSave : false})
         return {accessToken, refreshToken};
         
@@ -122,12 +122,12 @@ const loginUser = asyncHandler(async(req,res)=>{
 
 
     const {username, password, email} = req.body
-    console.log(req.body);
+    //console.log(req.body);
     // if(!username && !email){
     //     throw new ApiError(400, "Username or Email is required");
     // }
     if(!username) {
-        throw new ApiError(400, "Username or Email is required");
+        throw new ApiError(400, "Username  is required");
     }
     if(!email) {
         throw new ApiError(400), "Email is required";
@@ -146,13 +146,13 @@ const loginUser = asyncHandler(async(req,res)=>{
     }
 
     const isPasswordValid = await user.isPasswordCorrect(password)
-    console.log(isPasswordValid);
+    //console.log(isPasswordValid);
     if(!isPasswordValid) {
         throw new ApiError(401, "Incorrect password")
     }
 
     const {accessToken, refreshToken} = await generateAccessandRefreshToken(user._id)
-    console.log(accessToken, refreshToken);
+    //console.log(accessToken, refreshToken);
 
 
     const loggedInUser = await User.findById(user._id).select( "-password -refreshToken");
