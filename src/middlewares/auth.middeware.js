@@ -8,8 +8,9 @@ import { User } from "../models/user.model.js";
 
     try {
         const token = req.cookies?.accessToken || req.header("Authorization")?.replace("Bearer ", "");
+        //console.log(token);
     
-        if(!token) {
+        if(!token || token == "Bearer j%3A%7B%7D") {
             throw new ApiError(401, "Unauthorized request");
         }
     
