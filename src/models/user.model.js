@@ -50,6 +50,7 @@ const userSchema = new Schema({
 
 
 userSchema.pre("save", async function (next) {
+    console.log(this.isModified(this.password));
     if(!this.isModified("password")) return next();
 
     this.password = await bcrypt.hash(this.password, 10)
@@ -81,6 +82,9 @@ userSchema.methods.generateRefreshToken = async function (){
         {expiresIn : process.env.REFRESH_TOKEN_EXPIRY}
     )
 }
+
+
+// TODO : Add delete old images on cloudinary
 
 
 
