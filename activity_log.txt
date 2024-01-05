@@ -12,3 +12,5 @@ handle null pointer in user service
 
 remove unused variables
 
+integrate OTP verification
+
