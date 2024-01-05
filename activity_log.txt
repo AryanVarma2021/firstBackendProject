@@ -2,3 +2,5 @@ add token refresh endpoint
 
 update splash screen
 
+fix scrollbar visibility
+
