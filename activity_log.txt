@@ -10,3 +10,5 @@ clarify usage section in docs
 
 handle null pointer in user service
 
+remove unused variables
+
