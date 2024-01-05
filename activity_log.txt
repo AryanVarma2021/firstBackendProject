@@ -6,3 +6,5 @@ fix scrollbar visibility
 
 change color scheme
 
+clarify usage section in docs
+
