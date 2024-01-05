@@ -8,3 +8,5 @@ change color scheme
 
 clarify usage section in docs
 
+handle null pointer in user service
+
