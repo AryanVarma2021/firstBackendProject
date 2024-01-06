@@ -22,3 +22,5 @@ improve error handling
 
 add image carousel
 
+change color scheme
+
