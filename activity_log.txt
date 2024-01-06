@@ -20,3 +20,5 @@ update splash screen
 
 improve error handling
 
+add image carousel
+
