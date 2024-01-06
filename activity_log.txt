@@ -18,3 +18,5 @@ add token refresh endpoint
 
 update splash screen
 
+improve error handling
+
