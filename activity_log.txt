@@ -4,3 +4,5 @@ implement forgot password logic
 
 add user role validation
 
+add wishlist feature
+
