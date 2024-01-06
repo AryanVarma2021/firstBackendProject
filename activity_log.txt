@@ -2,3 +2,5 @@ fix z-index issue in modal
 
 implement forgot password logic
 
+add user role validation
+
