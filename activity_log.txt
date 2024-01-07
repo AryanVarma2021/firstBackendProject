@@ -30,3 +30,5 @@ change font family to Roboto
 
 refactor code structure
 
+add indexing for faster queries
+
