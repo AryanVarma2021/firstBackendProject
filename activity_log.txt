@@ -16,3 +16,5 @@ add dark mode toggle
 
 update API response format
 
+implement soft delete for users
+
