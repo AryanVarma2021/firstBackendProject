@@ -18,3 +18,5 @@ update API response format
 
 implement soft delete for users
 
+add rate limiter
+
