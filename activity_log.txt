@@ -10,3 +10,5 @@ add API documentation
 
 implement dark mode
 
+cleanup console logs
+
