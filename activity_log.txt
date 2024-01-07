@@ -12,3 +12,5 @@ implement dark mode
 
 cleanup console logs
 
+add dark mode toggle
+
