@@ -8,3 +8,5 @@ add wishlist feature
 
 add API documentation
 
+implement dark mode
+
