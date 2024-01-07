@@ -20,3 +20,5 @@ implement soft delete for users
 
 add rate limiter
 
+add new feature section
+
