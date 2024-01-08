@@ -34,3 +34,5 @@ fix redirect after login
 
 cleanup console logs
 
+update favicon
+
