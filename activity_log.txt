@@ -24,3 +24,5 @@ add new feature section
 
 fix alignment issue
 
+add user role validation
+
