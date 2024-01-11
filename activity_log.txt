@@ -40,3 +40,5 @@ add indexing for faster queries
 
 fix broken image in README
 
+add architecture diagram
+
