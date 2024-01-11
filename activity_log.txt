@@ -38,3 +38,5 @@ add logout functionality
 
 add indexing for faster queries
 
+fix broken image in README
+
