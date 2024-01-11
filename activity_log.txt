@@ -36,3 +36,5 @@ add token refresh endpoint
 
 add logout functionality
 
+add indexing for faster queries
+
