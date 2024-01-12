@@ -40,3 +40,5 @@ add user role validation
 
 improve UI responsiveness
 
+change db column type
+
