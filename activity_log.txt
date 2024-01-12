@@ -46,3 +46,5 @@ refactor form components
 
 improve UI responsiveness
 
+add architecture diagram
+
