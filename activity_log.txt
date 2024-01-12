@@ -38,3 +38,5 @@ update favicon
 
 add user role validation
 
+improve UI responsiveness
+
