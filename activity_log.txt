@@ -44,3 +44,5 @@ change db column type
 
 refactor form components
 
+improve UI responsiveness
+
