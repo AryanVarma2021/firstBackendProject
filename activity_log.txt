@@ -48,3 +48,5 @@ improve UI responsiveness
 
 add architecture diagram
 
+implement soft delete for users
+
