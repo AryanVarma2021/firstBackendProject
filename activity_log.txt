@@ -50,3 +50,5 @@ add architecture diagram
 
 implement soft delete for users
 
+implement theme persistence
+
