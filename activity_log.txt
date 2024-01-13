@@ -42,3 +42,5 @@ fix broken image in README
 
 add architecture diagram
 
+write setup instructions
+
