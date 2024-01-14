@@ -48,3 +48,5 @@ adding backend functionalities
 
 update code formatting
 
+update README
+
