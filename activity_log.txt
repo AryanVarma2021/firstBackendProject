@@ -52,3 +52,5 @@ implement soft delete for users
 
 implement theme persistence
 
+fix header logo alignment
+
