@@ -52,3 +52,5 @@ update README
 
 integrate social login
 
+add new feature section
+
