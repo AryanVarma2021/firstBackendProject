@@ -50,3 +50,5 @@ update code formatting
 
 update README
 
+integrate social login
+
