@@ -60,3 +60,5 @@ implement admin dashboard
 
 improve error handling
 
+fix font size for mobile view
+
