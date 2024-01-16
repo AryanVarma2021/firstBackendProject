@@ -58,3 +58,5 @@ refactor form components
 
 add toast notifications
 
+update changelog
+
