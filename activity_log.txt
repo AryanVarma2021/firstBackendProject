@@ -60,3 +60,5 @@ add toast notifications
 
 update changelog
 
+integrate social login
+
