@@ -64,3 +64,5 @@ integrate social login
 
 add payment receipt download
 
+add comment blocks to main classes
+
