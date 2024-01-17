@@ -62,3 +62,5 @@ improve error handling
 
 fix font size for mobile view
 
+add default values in schema
+
