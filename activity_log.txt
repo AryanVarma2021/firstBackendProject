@@ -72,3 +72,5 @@ fix redirect after login
 
 refactor image upload logic
 
+implement soft delete for users
+
