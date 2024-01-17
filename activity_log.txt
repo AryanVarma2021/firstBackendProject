@@ -64,3 +64,5 @@ fix font size for mobile view
 
 add default values in schema
 
+align frame
+
