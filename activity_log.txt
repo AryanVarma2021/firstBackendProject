@@ -66,3 +66,5 @@ add payment receipt download
 
 add comment blocks to main classes
 
+remove commented-out code
+
