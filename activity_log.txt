@@ -72,3 +72,5 @@ implement two-factor auth
 
 add transition animations
 
+fix typo in CONTRIBUTING.md
+
