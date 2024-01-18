@@ -74,3 +74,5 @@ add transition animations
 
 fix typo in CONTRIBUTING.md
 
+update dependencies
+
