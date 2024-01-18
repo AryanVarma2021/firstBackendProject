@@ -76,3 +76,5 @@ implement soft delete for users
 
 add payment receipt download
 
+add email notification system
+
