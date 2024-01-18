@@ -70,3 +70,5 @@ remove commented-out code
 
 implement two-factor auth
 
+add transition animations
+
