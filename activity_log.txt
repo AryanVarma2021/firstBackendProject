@@ -86,3 +86,5 @@ add token refresh endpoint
 
 add image carousel
 
+add review and rating module
+
