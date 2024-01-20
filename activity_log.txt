@@ -78,3 +78,5 @@ add payment receipt download
 
 add email notification system
 
+add toast notifications
+
