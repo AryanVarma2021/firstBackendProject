@@ -80,3 +80,5 @@ add email notification system
 
 add toast notifications
 
+optimize image loading
+
