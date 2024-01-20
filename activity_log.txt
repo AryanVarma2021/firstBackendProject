@@ -88,3 +88,5 @@ add image carousel
 
 add review and rating module
 
+fix header logo alignment
+
