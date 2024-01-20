@@ -84,3 +84,5 @@ optimize image loading
 
 add token refresh endpoint
 
+add image carousel
+
