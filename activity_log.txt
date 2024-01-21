@@ -76,3 +76,5 @@ fix typo in CONTRIBUTING.md
 
 update dependencies
 
+backend database model is built successfully
+
