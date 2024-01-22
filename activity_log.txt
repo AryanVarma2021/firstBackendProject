@@ -90,3 +90,5 @@ add review and rating module
 
 fix header logo alignment
 
+update user profile layout
+
