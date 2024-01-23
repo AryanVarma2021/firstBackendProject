@@ -86,3 +86,5 @@ add API documentation
 
 add transition animations
 
+fix bug in pagination
+
