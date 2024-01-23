@@ -88,3 +88,5 @@ add transition animations
 
 fix bug in pagination
 
+remove redundant code
+
