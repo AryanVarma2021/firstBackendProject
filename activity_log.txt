@@ -84,3 +84,5 @@ adding backend functionalities
 
 add API documentation
 
+add transition animations
+
