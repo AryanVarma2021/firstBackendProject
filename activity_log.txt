@@ -92,3 +92,5 @@ fix header logo alignment
 
 update user profile layout
 
+align frame
+
