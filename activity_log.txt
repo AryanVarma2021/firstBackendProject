@@ -92,3 +92,5 @@ remove redundant code
 
 add validation to request body
 
+fix header logo alignment
+
