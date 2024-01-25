@@ -104,3 +104,5 @@ add toast notifications
 
 fix bug in signup flow
 
+refactor image upload logic
+
