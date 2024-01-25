@@ -108,3 +108,5 @@ refactor image upload logic
 
 handle null pointer in user service
 
+add review and rating module
+
