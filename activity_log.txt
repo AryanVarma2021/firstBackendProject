@@ -94,3 +94,5 @@ add validation to request body
 
 fix header logo alignment
 
+clarify usage section in docs
+
