@@ -96,3 +96,5 @@ align frame
 
 add rate limiter
 
+add type annotations
+
