@@ -100,3 +100,5 @@ fix spacing between sections
 
 add email notification system
 
+add comment blocks to main classes
+
