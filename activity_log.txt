@@ -120,3 +120,5 @@ optimize SQL joins
 
 add new feature section
 
+add logout functionality
+
