@@ -112,3 +112,5 @@ add review and rating module
 
 add transition animations
 
+update logic for cart item removal
+
