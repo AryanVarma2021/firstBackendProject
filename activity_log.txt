@@ -96,3 +96,5 @@ fix header logo alignment
 
 clarify usage section in docs
 
+fix spacing between sections
+
