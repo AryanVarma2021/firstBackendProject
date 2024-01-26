@@ -114,3 +114,5 @@ add transition animations
 
 update logic for cart item removal
 
+implement two-factor auth
+
