@@ -118,3 +118,5 @@ implement two-factor auth
 
 optimize SQL joins
 
+add new feature section
+
