@@ -122,3 +122,5 @@ add new feature section
 
 add logout functionality
 
+remove commented-out code
+
