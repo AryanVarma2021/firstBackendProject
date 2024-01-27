@@ -108,3 +108,5 @@ update README with setup steps
 
 add theme switcher button
 
+remove commented-out code
+
