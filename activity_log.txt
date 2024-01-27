@@ -106,3 +106,5 @@ implement webhook handler
 
 update README with setup steps
 
+add theme switcher button
+
