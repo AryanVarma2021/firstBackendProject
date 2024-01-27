@@ -110,3 +110,5 @@ add theme switcher button
 
 remove commented-out code
 
+fix broken image in README
+
