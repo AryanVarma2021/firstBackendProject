@@ -104,3 +104,5 @@ add comment blocks to main classes
 
 implement webhook handler
 
+update README with setup steps
+
