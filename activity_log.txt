@@ -134,3 +134,5 @@ add footer links
 
 refactor class to hooks
 
+add review and rating module
+
