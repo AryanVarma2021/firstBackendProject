@@ -128,3 +128,5 @@ split large file into modules
 
 add API documentation
 
+adjust card border radius
+
