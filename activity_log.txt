@@ -118,3 +118,5 @@ implement two-factor auth
 
 add review and rating module
 
+update favicon
+
