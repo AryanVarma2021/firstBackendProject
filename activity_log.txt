@@ -142,3 +142,5 @@ change font family to Roboto
 
 add footer links
 
+adjust padding and margin
+
