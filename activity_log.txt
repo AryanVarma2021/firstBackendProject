@@ -130,3 +130,5 @@ add API documentation
 
 adjust card border radius
 
+add footer links
+
