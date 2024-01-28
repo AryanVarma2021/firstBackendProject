@@ -136,3 +136,5 @@ refactor class to hooks
 
 add review and rating module
 
+fix bug in login form
+
