@@ -154,3 +154,5 @@ add footer links
 
 add comment blocks to main classes
 
+improve error handling
+
