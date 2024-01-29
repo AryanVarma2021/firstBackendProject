@@ -148,3 +148,5 @@ change font family to Roboto
 
 add review and rating module
 
+add new illustration in hero section
+
