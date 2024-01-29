@@ -146,3 +146,5 @@ adjust padding and margin
 
 change font family to Roboto
 
+add review and rating module
+
