@@ -158,3 +158,5 @@ improve error handling
 
 add rate limiter
 
+implement forgot password logic
+
