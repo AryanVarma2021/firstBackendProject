@@ -162,3 +162,5 @@ implement forgot password logic
 
 add file upload handler
 
+optimize image loading
+
