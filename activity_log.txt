@@ -170,3 +170,5 @@ fix header logo alignment
 
 improve user verification flow
 
+fix product search filtering
+
