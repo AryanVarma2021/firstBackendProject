@@ -166,3 +166,5 @@ optimize image loading
 
 update seed data
 
+fix header logo alignment
+
