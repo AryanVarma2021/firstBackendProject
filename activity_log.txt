@@ -174,3 +174,5 @@ fix product search filtering
 
 split large file into modules
 
+remove unused variables
+
