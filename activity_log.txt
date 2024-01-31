@@ -168,3 +168,5 @@ update seed data
 
 fix header logo alignment
 
+improve user verification flow
+
