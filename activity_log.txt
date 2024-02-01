@@ -182,3 +182,5 @@ add rate limiter
 
 add theme switcher button
 
+remove unused variables
+
