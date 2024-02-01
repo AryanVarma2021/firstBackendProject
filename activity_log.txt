@@ -178,3 +178,5 @@ remove unused variables
 
 clarify usage section in docs
 
+add rate limiter
+
