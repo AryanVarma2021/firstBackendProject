@@ -184,3 +184,5 @@ add theme switcher button
 
 remove unused variables
 
+add dark mode toggle
+
