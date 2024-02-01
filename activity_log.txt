@@ -130,3 +130,5 @@ refactor utility functions
 
 add comment blocks to main classes
 
+update layout for mobile responsiveness
+
