@@ -180,3 +180,5 @@ clarify usage section in docs
 
 add rate limiter
 
+add theme switcher button
+
