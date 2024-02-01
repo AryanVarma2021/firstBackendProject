@@ -132,3 +132,5 @@ add comment blocks to main classes
 
 update layout for mobile responsiveness
 
+add indexing for faster queries
+
