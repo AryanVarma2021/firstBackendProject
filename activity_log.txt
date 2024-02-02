@@ -188,3 +188,5 @@ add dark mode toggle
 
 add default values in schema
 
+add toast notifications
+
