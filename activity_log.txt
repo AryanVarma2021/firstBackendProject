@@ -148,3 +148,5 @@ update JWT expiry logic
 
 add new migration script
 
+improve user verification flow
+
