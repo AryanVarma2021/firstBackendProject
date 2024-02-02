@@ -194,3 +194,5 @@ implement webhook handler
 
 write setup instructions
 
+enable multi-language support
+
