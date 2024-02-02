@@ -186,3 +186,5 @@ remove unused variables
 
 add dark mode toggle
 
+add default values in schema
+
