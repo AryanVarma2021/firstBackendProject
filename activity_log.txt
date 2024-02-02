@@ -192,3 +192,5 @@ add toast notifications
 
 implement webhook handler
 
+write setup instructions
+
