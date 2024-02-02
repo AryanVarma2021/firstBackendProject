@@ -146,3 +146,5 @@ refactor class to hooks
 
 update JWT expiry logic
 
+add new migration script
+
