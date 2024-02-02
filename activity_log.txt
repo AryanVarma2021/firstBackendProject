@@ -154,3 +154,5 @@ add new migration script
 
 add new feature section
 
+integrate social login
+
