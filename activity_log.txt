@@ -150,3 +150,5 @@ add new migration script
 
 improve user verification flow
 
+add new migration script
+
