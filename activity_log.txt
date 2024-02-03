@@ -200,3 +200,5 @@ write tests for user service
 
 optimize image loading
 
+improve UI responsiveness
+
