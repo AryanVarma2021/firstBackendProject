@@ -166,3 +166,5 @@ update layout for mobile responsiveness
 
 update badges in README
 
+remove redundant code
+
