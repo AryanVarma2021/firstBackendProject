@@ -198,3 +198,5 @@ enable multi-language support
 
 write tests for user service
 
+optimize image loading
+
