@@ -156,3 +156,5 @@ add new feature section
 
 integrate social login
 
+document new endpoints
+
