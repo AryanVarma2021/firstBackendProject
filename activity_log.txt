@@ -158,3 +158,5 @@ integrate social login
 
 document new endpoints
 
+add logout functionality
+
