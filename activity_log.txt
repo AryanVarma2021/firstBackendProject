@@ -162,3 +162,5 @@ add logout functionality
 
 update badges in README
 
+update layout for mobile responsiveness
+
