@@ -160,3 +160,5 @@ document new endpoints
 
 add logout functionality
 
+update badges in README
+
