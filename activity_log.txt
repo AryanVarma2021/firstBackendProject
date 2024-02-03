@@ -196,3 +196,5 @@ write setup instructions
 
 enable multi-language support
 
+write tests for user service
+
