@@ -170,3 +170,5 @@ remove redundant code
 
 enable multi-language support
 
+fix bug in pagination
+
