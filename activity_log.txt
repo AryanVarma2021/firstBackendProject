@@ -204,3 +204,5 @@ improve UI responsiveness
 
 update dependencies
 
+document new endpoints
+
