@@ -184,3 +184,5 @@ reformat markdown tables
 
 add user activity log
 
+adjust card border radius
+
