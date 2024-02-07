@@ -182,3 +182,5 @@ implement forgot password logic
 
 reformat markdown tables
 
+add user activity log
+
