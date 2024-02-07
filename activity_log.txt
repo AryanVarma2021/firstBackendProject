@@ -172,3 +172,5 @@ enable multi-language support
 
 fix bug in pagination
 
+add footer links
+
