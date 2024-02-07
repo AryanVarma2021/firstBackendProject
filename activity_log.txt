@@ -178,3 +178,5 @@ adding add button backend logic
 
 update user profile layout
 
+implement forgot password logic
+
