@@ -212,3 +212,5 @@ add validation to request body
 
 add wishlist feature
 
+add user role validation
+
