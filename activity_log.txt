@@ -176,3 +176,5 @@ add footer links
 
 adding add button backend logic
 
+update user profile layout
+
