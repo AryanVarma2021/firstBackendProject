@@ -222,3 +222,5 @@ restructure folder hierarchy
 
 update API response format
 
+rename variables for clarity
+
