@@ -216,3 +216,5 @@ add user role validation
 
 add validation to request body
 
+document new endpoints
+
