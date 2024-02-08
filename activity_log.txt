@@ -186,3 +186,5 @@ add user activity log
 
 adjust card border radius
 
+add default values in schema
+
