@@ -240,3 +240,5 @@ change color scheme
 
 simplify conditional logic
 
+implement theme persistence
+
