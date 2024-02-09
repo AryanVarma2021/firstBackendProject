@@ -232,3 +232,5 @@ handle null pointer in user service
 
 update splash screen
 
+add review and rating module
+
