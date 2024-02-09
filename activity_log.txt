@@ -226,3 +226,5 @@ rename variables for clarity
 
 optimize image loading
 
+update environment variable list
+
