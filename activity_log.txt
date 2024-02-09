@@ -234,3 +234,5 @@ update splash screen
 
 add review and rating module
 
+center-align login box
+
