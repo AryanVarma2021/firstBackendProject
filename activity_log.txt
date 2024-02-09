@@ -236,3 +236,5 @@ add review and rating module
 
 center-align login box
 
+change color scheme
+
