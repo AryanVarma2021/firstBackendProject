@@ -238,3 +238,5 @@ center-align login box
 
 change color scheme
 
+simplify conditional logic
+
