@@ -190,3 +190,5 @@ add default values in schema
 
 update changelog
 
+adding encryption to database
+
