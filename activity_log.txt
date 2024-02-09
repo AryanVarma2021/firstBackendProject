@@ -188,3 +188,5 @@ adjust card border radius
 
 add default values in schema
 
+update changelog
+
