@@ -228,3 +228,5 @@ optimize image loading
 
 update environment variable list
 
+handle null pointer in user service
+
