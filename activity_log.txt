@@ -246,3 +246,5 @@ adding backend functionalities
 
 update changelog
 
+improve error handling
+
