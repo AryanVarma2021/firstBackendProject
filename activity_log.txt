@@ -192,3 +192,5 @@ update changelog
 
 adding encryption to database
 
+add new illustration in hero section
+
