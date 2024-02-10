@@ -244,3 +244,5 @@ implement theme persistence
 
 adding backend functionalities
 
+update changelog
+
