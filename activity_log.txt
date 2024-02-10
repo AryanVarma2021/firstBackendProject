@@ -242,3 +242,5 @@ simplify conditional logic
 
 implement theme persistence
 
+adding backend functionalities
+
