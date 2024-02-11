@@ -258,3 +258,5 @@ refactor utility functions
 
 fix redirect after login
 
+fix product search filtering
+
