@@ -248,3 +248,5 @@ update changelog
 
 improve error handling
 
+fix typo in CONTRIBUTING.md
+
