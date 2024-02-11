@@ -252,3 +252,5 @@ fix typo in CONTRIBUTING.md
 
 improve user verification flow
 
+update favicon
+
