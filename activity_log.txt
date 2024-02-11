@@ -262,3 +262,5 @@ fix product search filtering
 
 document new endpoints
 
+add theme switcher button
+
