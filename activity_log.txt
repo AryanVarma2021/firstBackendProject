@@ -254,3 +254,5 @@ improve user verification flow
 
 update favicon
 
+refactor utility functions
+
