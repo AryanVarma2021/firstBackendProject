@@ -260,3 +260,5 @@ fix redirect after login
 
 fix product search filtering
 
+document new endpoints
+
