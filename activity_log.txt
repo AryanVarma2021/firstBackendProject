@@ -256,3 +256,5 @@ update favicon
 
 refactor utility functions
 
+fix redirect after login
+
