@@ -206,3 +206,5 @@ improve doc string clarity
 
 update API response format
 
+remove redundant code
+
