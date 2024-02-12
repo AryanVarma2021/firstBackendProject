@@ -202,3 +202,5 @@ remove unused imports
 
 add comment blocks to main classes
 
+improve doc string clarity
+
