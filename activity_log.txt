@@ -208,3 +208,5 @@ update API response format
 
 remove redundant code
 
+update README with setup steps
+
