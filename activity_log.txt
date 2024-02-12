@@ -268,3 +268,5 @@ add user activity log
 
 add validation to request body
 
+fix header logo alignment
+
