@@ -196,3 +196,5 @@ add new illustration in hero section
 
 center-align login box
 
+write tests for user service
+
