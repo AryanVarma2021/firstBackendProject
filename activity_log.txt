@@ -200,3 +200,5 @@ write tests for user service
 
 remove unused imports
 
+add comment blocks to main classes
+
