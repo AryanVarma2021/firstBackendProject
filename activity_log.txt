@@ -218,3 +218,5 @@ implement admin dashboard
 
 modularize API calls
 
+fix session persistence bug
+
