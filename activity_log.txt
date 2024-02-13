@@ -212,3 +212,5 @@ update README with setup steps
 
 change font family to Roboto
 
+add toast notifications
+
