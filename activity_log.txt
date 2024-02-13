@@ -274,3 +274,5 @@ refactor payment gateway integration
 
 add button at bottom
 
+simplify conditional logic
+
