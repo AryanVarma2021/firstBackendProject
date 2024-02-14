@@ -220,3 +220,5 @@ modularize API calls
 
 fix session persistence bug
 
+add logout functionality
+
