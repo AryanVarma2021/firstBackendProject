@@ -278,3 +278,5 @@ simplify conditional logic
 
 backend database model is built successfully
 
+implement soft delete for users
+
