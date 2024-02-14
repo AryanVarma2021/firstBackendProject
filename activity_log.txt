@@ -222,3 +222,5 @@ fix session persistence bug
 
 add logout functionality
 
+fix error on empty request
+
