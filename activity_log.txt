@@ -280,3 +280,5 @@ backend database model is built successfully
 
 implement soft delete for users
 
+fix scrollbar visibility
+
