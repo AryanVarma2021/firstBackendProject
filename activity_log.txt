@@ -294,3 +294,5 @@ add review and rating module
 
 add footer links
 
+update favicon
+
