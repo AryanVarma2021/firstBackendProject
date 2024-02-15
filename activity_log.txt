@@ -292,3 +292,5 @@ add button at bottom
 
 add review and rating module
 
+add footer links
+
