@@ -298,3 +298,5 @@ update favicon
 
 implement admin dashboard
 
+write tests for user service
+
