@@ -296,3 +296,5 @@ add footer links
 
 update favicon
 
+implement admin dashboard
+
