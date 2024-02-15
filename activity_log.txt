@@ -300,3 +300,5 @@ implement admin dashboard
 
 write tests for user service
 
+update user profile layout
+
