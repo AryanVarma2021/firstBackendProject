@@ -228,3 +228,5 @@ change font family to Roboto
 
 improve error handling
 
+update changelog
+
