@@ -310,3 +310,5 @@ refactor payment gateway integration
 
 remove redundant code
 
+fix font size for mobile view
+
