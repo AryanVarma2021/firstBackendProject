@@ -306,3 +306,5 @@ add comment blocks to main classes
 
 fix scrollbar visibility
 
+refactor payment gateway integration
+
