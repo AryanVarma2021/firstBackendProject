@@ -302,3 +302,5 @@ write tests for user service
 
 update user profile layout
 
+add comment blocks to main classes
+
