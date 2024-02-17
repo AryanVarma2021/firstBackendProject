@@ -236,3 +236,5 @@ update seed data
 
 add API documentation
 
+refactor utility functions
+
