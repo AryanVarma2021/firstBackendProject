@@ -318,3 +318,5 @@ refactor payment gateway integration
 
 enable multi-language support
 
+adjust card border radius
+
