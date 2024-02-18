@@ -320,3 +320,5 @@ enable multi-language support
 
 adjust card border radius
 
+remove commented-out code
+
