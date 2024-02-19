@@ -328,3 +328,5 @@ update README
 
 add new feature section
 
+cleanup console logs
+
