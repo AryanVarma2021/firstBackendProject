@@ -332,3 +332,5 @@ cleanup console logs
 
 fix bug in pagination
 
+fix typo in documentation
+
