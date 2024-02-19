@@ -330,3 +330,5 @@ add new feature section
 
 cleanup console logs
 
+fix bug in pagination
+
