@@ -326,3 +326,5 @@ improve error handling
 
 update README
 
+add new feature section
+
