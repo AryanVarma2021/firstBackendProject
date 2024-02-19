@@ -322,3 +322,5 @@ adjust card border radius
 
 remove commented-out code
 
+improve error handling
+
