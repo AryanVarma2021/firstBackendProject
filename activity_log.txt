@@ -324,3 +324,5 @@ remove commented-out code
 
 improve error handling
 
+update README
+
