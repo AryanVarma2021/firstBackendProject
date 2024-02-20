@@ -348,3 +348,5 @@ align frame
 
 update README
 
+remove redundant code
+
