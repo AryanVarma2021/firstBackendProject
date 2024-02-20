@@ -336,3 +336,5 @@ fix typo in documentation
 
 add export to CSV option
 
+update README with setup steps
+
