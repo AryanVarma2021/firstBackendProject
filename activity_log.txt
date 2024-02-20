@@ -334,3 +334,5 @@ fix bug in pagination
 
 fix typo in documentation
 
+add export to CSV option
+
