@@ -340,3 +340,5 @@ update README with setup steps
 
 integrate social login
 
+document new endpoints
+
