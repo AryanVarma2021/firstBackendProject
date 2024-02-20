@@ -344,3 +344,5 @@ document new endpoints
 
 write setup instructions
 
+align frame
+
