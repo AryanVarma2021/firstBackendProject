@@ -342,3 +342,5 @@ integrate social login
 
 document new endpoints
 
+write setup instructions
+
