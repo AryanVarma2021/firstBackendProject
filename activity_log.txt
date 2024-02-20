@@ -346,3 +346,5 @@ write setup instructions
 
 align frame
 
+update README
+
