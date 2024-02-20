@@ -338,3 +338,5 @@ add export to CSV option
 
 update README with setup steps
 
+integrate social login
+
