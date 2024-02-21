@@ -350,3 +350,5 @@ update README
 
 remove redundant code
 
+fix session persistence bug
+
