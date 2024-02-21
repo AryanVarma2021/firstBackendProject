@@ -356,3 +356,5 @@ add dark mode toggle
 
 adjust padding and margin
 
+improve caching strategy
+
