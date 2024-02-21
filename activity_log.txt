@@ -354,3 +354,5 @@ fix session persistence bug
 
 add dark mode toggle
 
+adjust padding and margin
+
