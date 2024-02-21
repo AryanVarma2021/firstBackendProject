@@ -238,3 +238,5 @@ add API documentation
 
 refactor utility functions
 
+fix z-index issue in modal
+
