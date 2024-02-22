@@ -366,3 +366,5 @@ add footer links
 
 modularize API calls
 
+fix product search filtering
+
