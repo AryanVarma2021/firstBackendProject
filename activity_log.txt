@@ -368,3 +368,5 @@ modularize API calls
 
 fix product search filtering
 
+improve UI responsiveness
+
