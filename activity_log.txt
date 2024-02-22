@@ -362,3 +362,5 @@ modularize API calls
 
 add export to CSV option
 
+add footer links
+
