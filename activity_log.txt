@@ -248,3 +248,5 @@ integrate OTP verification
 
 add architecture diagram
 
+add image carousel
+
