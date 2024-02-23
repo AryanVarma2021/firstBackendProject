@@ -252,3 +252,5 @@ add image carousel
 
 implement webhook handler
 
+adding encryption to database
+
