@@ -246,3 +246,5 @@ implement two-factor auth
 
 integrate OTP verification
 
+add architecture diagram
+
