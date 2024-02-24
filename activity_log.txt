@@ -256,3 +256,5 @@ adding encryption to database
 
 add comments for clarity
 
+center-align login box
+
