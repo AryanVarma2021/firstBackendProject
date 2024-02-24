@@ -370,3 +370,5 @@ fix product search filtering
 
 improve UI responsiveness
 
+align navbar properly
+
