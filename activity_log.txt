@@ -260,3 +260,5 @@ center-align login box
 
 clarify usage section in docs
 
+remove redundant code
+
