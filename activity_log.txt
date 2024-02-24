@@ -254,3 +254,5 @@ implement webhook handler
 
 adding encryption to database
 
+add comments for clarity
+
