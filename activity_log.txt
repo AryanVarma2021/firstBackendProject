@@ -258,3 +258,5 @@ add comments for clarity
 
 center-align login box
 
+clarify usage section in docs
+
