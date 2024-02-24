@@ -372,3 +372,5 @@ improve UI responsiveness
 
 align navbar properly
 
+adding encryption to database
+
