@@ -262,3 +262,5 @@ clarify usage section in docs
 
 remove redundant code
 
+fix crash on missing image
+
