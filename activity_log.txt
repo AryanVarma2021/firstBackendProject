@@ -374,3 +374,5 @@ align navbar properly
 
 adding encryption to database
 
+update layout for mobile responsiveness
+
