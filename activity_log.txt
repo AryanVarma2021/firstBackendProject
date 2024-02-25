@@ -384,3 +384,5 @@ add export to CSV option
 
 split large file into modules
 
+cleanup console logs
+
