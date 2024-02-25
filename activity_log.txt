@@ -378,3 +378,5 @@ update layout for mobile responsiveness
 
 refactor payment gateway integration
 
+fix broken image in README
+
