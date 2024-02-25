@@ -382,3 +382,5 @@ fix broken image in README
 
 add export to CSV option
 
+split large file into modules
+
