@@ -390,3 +390,5 @@ add button at bottom
 
 fix typo in endpoint route
 
+update logic for cart item removal
+
