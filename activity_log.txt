@@ -266,3 +266,5 @@ fix crash on missing image
 
 backend database model is built successfully
 
+fix typo in documentation
+
