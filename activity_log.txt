@@ -264,3 +264,5 @@ remove redundant code
 
 fix crash on missing image
 
+backend database model is built successfully
+
