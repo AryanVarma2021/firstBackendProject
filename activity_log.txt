@@ -392,3 +392,5 @@ fix typo in endpoint route
 
 update logic for cart item removal
 
+fix typo in endpoint route
+
