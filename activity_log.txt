@@ -408,3 +408,5 @@ add loading spinner
 
 fix alignment issue
 
+add type annotations
+
