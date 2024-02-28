@@ -406,3 +406,5 @@ adding encryption to database
 
 add loading spinner
 
+fix alignment issue
+
