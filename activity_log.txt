@@ -414,3 +414,5 @@ change button hover effect
 
 add logout functionality
 
+remove redundant code
+
