@@ -404,3 +404,5 @@ add default values in schema
 
 adding encryption to database
 
+add loading spinner
+
