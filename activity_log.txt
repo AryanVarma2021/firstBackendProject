@@ -272,3 +272,5 @@ improve caching strategy
 
 add toast notifications
 
+adding encryption to database
+
