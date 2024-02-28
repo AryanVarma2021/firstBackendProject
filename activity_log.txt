@@ -412,3 +412,5 @@ add type annotations
 
 change button hover effect
 
+add logout functionality
+
