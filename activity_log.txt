@@ -270,3 +270,5 @@ fix typo in documentation
 
 improve caching strategy
 
+add toast notifications
+
