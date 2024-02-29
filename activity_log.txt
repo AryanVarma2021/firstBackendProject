@@ -416,3 +416,5 @@ add logout functionality
 
 remove redundant code
 
+update environment variable list
+
