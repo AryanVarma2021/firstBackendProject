@@ -274,3 +274,5 @@ add toast notifications
 
 adding encryption to database
 
+update README with setup steps
+
