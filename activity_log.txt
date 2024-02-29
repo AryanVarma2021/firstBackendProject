@@ -420,3 +420,5 @@ update environment variable list
 
 add type annotations
 
+add logout functionality
+
