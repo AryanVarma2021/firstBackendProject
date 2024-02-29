@@ -418,3 +418,5 @@ remove redundant code
 
 update environment variable list
 
+add type annotations
+
