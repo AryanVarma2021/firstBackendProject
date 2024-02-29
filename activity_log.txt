@@ -276,3 +276,5 @@ adding encryption to database
 
 update README with setup steps
 
+update README with setup steps
+
