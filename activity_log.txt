@@ -422,3 +422,5 @@ add type annotations
 
 add logout functionality
 
+fix broken image in README
+
