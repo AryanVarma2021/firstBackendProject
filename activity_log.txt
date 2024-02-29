@@ -424,3 +424,5 @@ add logout functionality
 
 fix broken image in README
 
+update JWT expiry logic
+
