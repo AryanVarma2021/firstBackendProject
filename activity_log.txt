@@ -278,3 +278,5 @@ update README with setup steps
 
 update README with setup steps
 
+add icons to sidebar
+
