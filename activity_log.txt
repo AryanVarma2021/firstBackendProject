@@ -428,3 +428,5 @@ update JWT expiry logic
 
 improve form validation UI
 
+improve error handling
+
