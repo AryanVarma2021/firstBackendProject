@@ -432,3 +432,5 @@ improve error handling
 
 modularize API calls
 
+simplify conditional logic
+
