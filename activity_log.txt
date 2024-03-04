@@ -450,3 +450,5 @@ modularize API calls
 
 fix z-index issue in modal
 
+add footer links
+
