@@ -440,3 +440,5 @@ implement admin dashboard
 
 adjust padding and margin
 
+fix crash on missing image
+
