@@ -444,3 +444,5 @@ fix crash on missing image
 
 add rate limiter
 
+add architecture diagram
+
