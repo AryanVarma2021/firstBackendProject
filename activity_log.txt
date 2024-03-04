@@ -452,3 +452,5 @@ fix z-index issue in modal
 
 add footer links
 
+implement forgot password logic
+
