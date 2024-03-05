@@ -464,3 +464,5 @@ align navbar properly
 
 integrate social login
 
+add user activity log
+
