@@ -462,3 +462,5 @@ update changelog
 
 align navbar properly
 
+integrate social login
+
