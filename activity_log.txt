@@ -468,3 +468,5 @@ add user activity log
 
 align navbar properly
 
+remove redundant code
+
