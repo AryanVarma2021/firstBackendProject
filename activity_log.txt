@@ -460,3 +460,5 @@ add API documentation
 
 update changelog
 
+align navbar properly
+
