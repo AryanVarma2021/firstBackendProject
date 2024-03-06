@@ -472,3 +472,5 @@ remove redundant code
 
 adding encryption to database
 
+update favicon
+
