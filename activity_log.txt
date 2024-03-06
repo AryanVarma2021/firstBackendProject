@@ -470,3 +470,5 @@ align navbar properly
 
 remove redundant code
 
+adding encryption to database
+
