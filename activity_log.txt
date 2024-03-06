@@ -474,3 +474,5 @@ adding encryption to database
 
 update favicon
 
+restructure folder hierarchy
+
