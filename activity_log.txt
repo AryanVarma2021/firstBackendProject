@@ -476,3 +476,5 @@ update favicon
 
 restructure folder hierarchy
 
+add new migration script
+
