@@ -280,3 +280,5 @@ update README with setup steps
 
 add icons to sidebar
 
+add wishlist feature
+
