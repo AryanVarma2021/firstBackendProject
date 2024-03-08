@@ -282,3 +282,5 @@ add icons to sidebar
 
 add wishlist feature
 
+rename variables for clarity
+
