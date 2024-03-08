@@ -286,3 +286,5 @@ rename variables for clarity
 
 update API response format
 
+improve doc string clarity
+
