@@ -478,3 +478,5 @@ restructure folder hierarchy
 
 add new migration script
 
+update seed data
+
