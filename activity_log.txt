@@ -482,3 +482,5 @@ update seed data
 
 integrate social login
 
+center-align login box
+
