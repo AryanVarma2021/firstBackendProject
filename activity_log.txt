@@ -480,3 +480,5 @@ add new migration script
 
 update seed data
 
+integrate social login
+
