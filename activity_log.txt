@@ -498,3 +498,5 @@ update schema for orders table
 
 add logout functionality
 
+refactor payment gateway integration
+
