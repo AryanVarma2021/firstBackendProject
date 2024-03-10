@@ -494,3 +494,5 @@ adjust padding and margin
 
 improve error handling
 
+update schema for orders table
+
