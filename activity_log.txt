@@ -484,3 +484,5 @@ integrate social login
 
 center-align login box
 
+update user profile layout
+
