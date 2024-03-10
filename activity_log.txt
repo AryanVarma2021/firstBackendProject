@@ -496,3 +496,5 @@ improve error handling
 
 update schema for orders table
 
+add logout functionality
+
