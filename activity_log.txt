@@ -298,3 +298,5 @@ implement forgot password logic
 
 add toast notifications
 
+update README
+
