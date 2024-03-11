@@ -294,3 +294,5 @@ refactor payment gateway integration
 
 optimize SQL joins
 
+implement forgot password logic
+
