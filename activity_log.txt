@@ -510,3 +510,5 @@ add toast notifications
 
 write setup instructions
 
+integrate OTP verification
+
