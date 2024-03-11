@@ -504,3 +504,5 @@ add architecture diagram
 
 update code formatting
 
+implement dark mode
+
