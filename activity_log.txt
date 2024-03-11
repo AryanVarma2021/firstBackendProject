@@ -292,3 +292,5 @@ fix spacing between sections
 
 refactor payment gateway integration
 
+optimize SQL joins
+
