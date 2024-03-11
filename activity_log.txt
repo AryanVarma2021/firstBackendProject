@@ -300,3 +300,5 @@ add toast notifications
 
 update README
 
+add transition animations
+
