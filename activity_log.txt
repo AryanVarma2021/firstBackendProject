@@ -296,3 +296,5 @@ optimize SQL joins
 
 implement forgot password logic
 
+add toast notifications
+
