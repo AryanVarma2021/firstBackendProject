@@ -502,3 +502,5 @@ refactor payment gateway integration
 
 add architecture diagram
 
+update code formatting
+
