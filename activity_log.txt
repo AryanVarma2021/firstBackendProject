@@ -506,3 +506,5 @@ update code formatting
 
 implement dark mode
 
+add toast notifications
+
