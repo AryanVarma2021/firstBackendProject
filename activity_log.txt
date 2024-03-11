@@ -500,3 +500,5 @@ add logout functionality
 
 refactor payment gateway integration
 
+add architecture diagram
+
