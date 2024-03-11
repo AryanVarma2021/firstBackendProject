@@ -290,3 +290,5 @@ improve doc string clarity
 
 fix spacing between sections
 
+refactor payment gateway integration
+
