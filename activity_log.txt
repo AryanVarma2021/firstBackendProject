@@ -518,3 +518,5 @@ fix typo in documentation
 
 refactor class to hooks
 
+fix typo in CONTRIBUTING.md
+
