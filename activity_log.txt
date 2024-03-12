@@ -514,3 +514,5 @@ integrate OTP verification
 
 implement soft delete for users
 
+fix typo in documentation
+
