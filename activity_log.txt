@@ -512,3 +512,5 @@ write setup instructions
 
 integrate OTP verification
 
+implement soft delete for users
+
