@@ -520,3 +520,5 @@ refactor class to hooks
 
 fix typo in CONTRIBUTING.md
 
+add theme switcher button
+
