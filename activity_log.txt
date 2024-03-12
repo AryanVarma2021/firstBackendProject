@@ -516,3 +516,5 @@ implement soft delete for users
 
 fix typo in documentation
 
+refactor class to hooks
+
