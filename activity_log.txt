@@ -522,3 +522,5 @@ fix typo in CONTRIBUTING.md
 
 add theme switcher button
 
+refactor utility functions
+
