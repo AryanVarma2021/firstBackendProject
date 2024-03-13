@@ -538,3 +538,5 @@ fix broken image in README
 
 split large file into modules
 
+add logout functionality
+
