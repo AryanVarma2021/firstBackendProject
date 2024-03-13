@@ -540,3 +540,5 @@ split large file into modules
 
 add logout functionality
 
+fix z-index issue in modal
+
