@@ -534,3 +534,5 @@ restructure folder hierarchy
 
 implement theme persistence
 
+fix broken image in README
+
