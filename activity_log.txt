@@ -532,3 +532,5 @@ update badges in README
 
 restructure folder hierarchy
 
+implement theme persistence
+
