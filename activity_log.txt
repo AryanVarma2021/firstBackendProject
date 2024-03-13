@@ -536,3 +536,5 @@ implement theme persistence
 
 fix broken image in README
 
+split large file into modules
+
