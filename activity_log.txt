@@ -544,3 +544,5 @@ fix z-index issue in modal
 
 update layout for mobile responsiveness
 
+change db column type
+
