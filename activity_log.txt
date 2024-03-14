@@ -556,3 +556,5 @@ add payment receipt download
 
 add new migration script
 
+improve doc string clarity
+
