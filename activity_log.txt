@@ -312,3 +312,5 @@ add theme switcher button
 
 modularize API calls
 
+fix typo in documentation
+
