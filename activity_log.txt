@@ -548,3 +548,5 @@ change db column type
 
 add new feature section
 
+update README with setup steps
+
