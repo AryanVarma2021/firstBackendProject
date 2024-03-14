@@ -314,3 +314,5 @@ modularize API calls
 
 fix typo in documentation
 
+add theme switcher button
+
