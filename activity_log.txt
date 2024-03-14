@@ -542,3 +542,5 @@ add logout functionality
 
 fix z-index issue in modal
 
+update layout for mobile responsiveness
+
