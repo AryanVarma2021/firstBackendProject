@@ -546,3 +546,5 @@ update layout for mobile responsiveness
 
 change db column type
 
+add new feature section
+
