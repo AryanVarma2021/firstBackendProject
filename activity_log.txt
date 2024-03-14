@@ -316,3 +316,5 @@ fix typo in documentation
 
 add theme switcher button
 
+fix z-index issue in modal
+
