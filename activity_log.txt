@@ -310,3 +310,5 @@ add email notification system
 
 add theme switcher button
 
+modularize API calls
+
