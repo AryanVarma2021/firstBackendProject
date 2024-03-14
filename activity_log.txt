@@ -318,3 +318,5 @@ add theme switcher button
 
 fix z-index issue in modal
 
+add dark mode toggle
+
