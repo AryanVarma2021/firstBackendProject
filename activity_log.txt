@@ -320,3 +320,5 @@ fix z-index issue in modal
 
 add dark mode toggle
 
+add comments for clarity
+
