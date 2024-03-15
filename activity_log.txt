@@ -324,3 +324,5 @@ add comments for clarity
 
 update logic for cart item removal
 
+implement soft delete for users
+
