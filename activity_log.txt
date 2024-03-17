@@ -332,3 +332,5 @@ fix error on empty request
 
 add new illustration in hero section
 
+enable multi-language support
+
