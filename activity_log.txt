@@ -328,3 +328,5 @@ implement soft delete for users
 
 add loading spinner
 
+fix error on empty request
+
