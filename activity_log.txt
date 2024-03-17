@@ -334,3 +334,5 @@ add new illustration in hero section
 
 enable multi-language support
 
+update changelog
+
