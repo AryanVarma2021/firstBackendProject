@@ -330,3 +330,5 @@ add loading spinner
 
 fix error on empty request
 
+add new illustration in hero section
+
