@@ -326,3 +326,5 @@ update logic for cart item removal
 
 implement soft delete for users
 
+add loading spinner
+
