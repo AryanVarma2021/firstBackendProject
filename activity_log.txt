@@ -342,3 +342,5 @@ fix scrollbar visibility
 
 fix typo in endpoint route
 
+implement dark mode
+
