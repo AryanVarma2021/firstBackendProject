@@ -340,3 +340,5 @@ write tests for user service
 
 fix scrollbar visibility
 
+fix typo in endpoint route
+
