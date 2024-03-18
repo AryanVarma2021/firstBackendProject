@@ -336,3 +336,5 @@ enable multi-language support
 
 update changelog
 
+write tests for user service
+
