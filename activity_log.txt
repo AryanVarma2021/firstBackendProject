@@ -338,3 +338,5 @@ update changelog
 
 write tests for user service
 
+fix scrollbar visibility
+
