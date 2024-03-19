@@ -350,3 +350,5 @@ update README with setup steps
 
 update splash screen
 
+fix infinite loop in polling
+
