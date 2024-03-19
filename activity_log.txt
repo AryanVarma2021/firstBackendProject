@@ -346,3 +346,5 @@ implement dark mode
 
 add review and rating module
 
+update README with setup steps
+
