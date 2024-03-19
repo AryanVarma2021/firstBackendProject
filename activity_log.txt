@@ -344,3 +344,5 @@ fix typo in endpoint route
 
 implement dark mode
 
+add review and rating module
+
