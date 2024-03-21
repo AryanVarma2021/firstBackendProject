@@ -368,3 +368,5 @@ simplify conditional logic
 
 add wishlist feature
 
+document new endpoints
+
