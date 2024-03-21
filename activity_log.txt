@@ -356,3 +356,5 @@ remove redundant code
 
 fix spacing between sections
 
+adjust padding and margin
+
