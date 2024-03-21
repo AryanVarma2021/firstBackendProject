@@ -366,3 +366,5 @@ refactor form components
 
 simplify conditional logic
 
+add wishlist feature
+
