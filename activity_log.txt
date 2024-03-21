@@ -358,3 +358,5 @@ fix spacing between sections
 
 adjust padding and margin
 
+improve error handling
+
