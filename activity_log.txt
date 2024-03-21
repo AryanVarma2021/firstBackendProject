@@ -370,3 +370,5 @@ add wishlist feature
 
 document new endpoints
 
+refactor utility functions
+
