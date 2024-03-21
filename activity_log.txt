@@ -360,3 +360,5 @@ adjust padding and margin
 
 improve error handling
 
+update favicon
+
