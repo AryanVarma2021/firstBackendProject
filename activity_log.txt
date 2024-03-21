@@ -364,3 +364,5 @@ update favicon
 
 refactor form components
 
+simplify conditional logic
+
