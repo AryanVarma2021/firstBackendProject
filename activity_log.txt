@@ -372,3 +372,5 @@ document new endpoints
 
 refactor utility functions
 
+fix font size for mobile view
+
