@@ -374,3 +374,5 @@ refactor utility functions
 
 fix font size for mobile view
 
+fix spacing between sections
+
