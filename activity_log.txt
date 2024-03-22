@@ -386,3 +386,5 @@ adding encryption to database
 
 reformat markdown tables
 
+add indexing for faster queries
+
