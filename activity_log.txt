@@ -384,3 +384,5 @@ add API documentation
 
 adding encryption to database
 
+reformat markdown tables
+
