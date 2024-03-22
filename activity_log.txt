@@ -382,3 +382,5 @@ backend database model is built successfully
 
 add API documentation
 
+adding encryption to database
+
