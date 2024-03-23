@@ -392,3 +392,5 @@ add email notification system
 
 optimize SQL joins
 
+update user profile layout
+
