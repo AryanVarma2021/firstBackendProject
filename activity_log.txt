@@ -390,3 +390,5 @@ add indexing for faster queries
 
 add email notification system
 
+optimize SQL joins
+
