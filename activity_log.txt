@@ -388,3 +388,5 @@ reformat markdown tables
 
 add indexing for faster queries
 
+add email notification system
+
