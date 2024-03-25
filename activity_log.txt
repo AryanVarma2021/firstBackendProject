@@ -394,3 +394,5 @@ optimize SQL joins
 
 update user profile layout
 
+add default values in schema
+
