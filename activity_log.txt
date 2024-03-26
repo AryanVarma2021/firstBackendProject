@@ -406,3 +406,5 @@ update API response format
 
 write setup instructions
 
+update layout for mobile responsiveness
+
