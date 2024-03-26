@@ -400,3 +400,5 @@ update code formatting
 
 update seed data
 
+add new migration script
+
