@@ -404,3 +404,5 @@ add new migration script
 
 update API response format
 
+write setup instructions
+
