@@ -408,3 +408,5 @@ write setup instructions
 
 update layout for mobile responsiveness
 
+fix bug in signup flow
+
