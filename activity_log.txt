@@ -410,3 +410,5 @@ update layout for mobile responsiveness
 
 fix bug in signup flow
 
+fix z-index issue in modal
+
