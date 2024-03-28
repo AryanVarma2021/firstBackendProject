@@ -412,3 +412,5 @@ fix bug in signup flow
 
 fix z-index issue in modal
 
+add footer links
+
