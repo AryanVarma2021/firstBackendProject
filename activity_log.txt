@@ -424,3 +424,5 @@ optimize image loading
 
 update favicon
 
+add user role validation
+
