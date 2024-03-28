@@ -414,3 +414,5 @@ fix z-index issue in modal
 
 add footer links
 
+adding encryption to database
+
