@@ -426,3 +426,5 @@ update favicon
 
 add user role validation
 
+remove redundant code
+
