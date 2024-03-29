@@ -430,3 +430,5 @@ remove redundant code
 
 backend database model is built successfully
 
+implement theme persistence
+
