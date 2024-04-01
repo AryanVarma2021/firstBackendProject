@@ -440,3 +440,5 @@ update user profile layout
 
 split large file into modules
 
+add new illustration in hero section
+
