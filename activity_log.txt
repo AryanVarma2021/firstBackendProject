@@ -434,3 +434,5 @@ implement theme persistence
 
 refactor code structure
 
+refactor utility functions
+
