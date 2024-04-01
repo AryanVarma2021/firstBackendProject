@@ -436,3 +436,5 @@ refactor code structure
 
 refactor utility functions
 
+update user profile layout
+
