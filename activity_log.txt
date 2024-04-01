@@ -446,3 +446,5 @@ fix inconsistent naming conventions
 
 add architecture diagram
 
+improve UI responsiveness
+
