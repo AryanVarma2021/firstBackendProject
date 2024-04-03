@@ -452,3 +452,5 @@ implement soft delete for users
 
 optimize image loading
 
+fix alignment issue
+
