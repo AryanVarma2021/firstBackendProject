@@ -460,3 +460,5 @@ adjust card border radius
 
 align frame
 
+refactor DB query logic
+
