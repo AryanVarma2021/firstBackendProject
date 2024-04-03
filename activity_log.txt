@@ -448,3 +448,5 @@ add architecture diagram
 
 improve UI responsiveness
 
+implement soft delete for users
+
