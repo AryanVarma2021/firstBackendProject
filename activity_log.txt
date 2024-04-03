@@ -454,3 +454,5 @@ optimize image loading
 
 fix alignment issue
 
+update README with setup steps
+
