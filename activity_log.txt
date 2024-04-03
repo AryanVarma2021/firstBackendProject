@@ -456,3 +456,5 @@ fix alignment issue
 
 update README with setup steps
 
+adjust card border radius
+
