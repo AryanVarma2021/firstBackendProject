@@ -464,3 +464,5 @@ refactor DB query logic
 
 split large file into modules
 
+remove unused variables
+
