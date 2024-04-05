@@ -468,3 +468,5 @@ remove unused variables
 
 adding encryption to database
 
+add dark mode toggle
+
