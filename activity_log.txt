@@ -466,3 +466,5 @@ split large file into modules
 
 remove unused variables
 
+adding encryption to database
+
