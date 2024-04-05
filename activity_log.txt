@@ -470,3 +470,5 @@ adding encryption to database
 
 add dark mode toggle
 
+integrate social login
+
