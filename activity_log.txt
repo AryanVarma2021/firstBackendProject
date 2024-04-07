@@ -474,3 +474,5 @@ integrate social login
 
 adding add button backend logic
 
+add type annotations
+
