@@ -478,3 +478,5 @@ add type annotations
 
 update badges in README
 
+add comment blocks to main classes
+
