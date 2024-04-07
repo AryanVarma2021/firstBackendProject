@@ -476,3 +476,5 @@ adding add button backend logic
 
 add type annotations
 
+update badges in README
+
