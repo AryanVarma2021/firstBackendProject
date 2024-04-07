@@ -480,3 +480,5 @@ update badges in README
 
 add comment blocks to main classes
 
+handle null pointer in user service
+
