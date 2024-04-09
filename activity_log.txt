@@ -486,3 +486,5 @@ update seed data
 
 improve form validation UI
 
+refactor code structure
+
