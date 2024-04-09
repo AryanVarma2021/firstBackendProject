@@ -488,3 +488,5 @@ improve form validation UI
 
 refactor code structure
 
+update dependencies
+
