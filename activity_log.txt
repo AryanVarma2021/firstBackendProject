@@ -500,3 +500,5 @@ update splash screen
 
 add rate limiter
 
+update user profile layout
+
