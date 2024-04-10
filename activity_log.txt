@@ -494,3 +494,5 @@ fix error on empty request
 
 add export to CSV option
 
+fix primary key conflict
+
