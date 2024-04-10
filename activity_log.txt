@@ -496,3 +496,5 @@ add export to CSV option
 
 fix primary key conflict
 
+update splash screen
+
