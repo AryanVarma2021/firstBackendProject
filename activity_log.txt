@@ -490,3 +490,5 @@ refactor code structure
 
 update dependencies
 
+fix error on empty request
+
