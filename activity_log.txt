@@ -508,3 +508,5 @@ update code formatting
 
 improve doc string clarity
 
+refactor DB query logic
+
