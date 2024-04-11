@@ -502,3 +502,5 @@ add rate limiter
 
 update user profile layout
 
+implement forgot password logic
+
