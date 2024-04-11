@@ -506,3 +506,5 @@ implement forgot password logic
 
 update code formatting
 
+improve doc string clarity
+
