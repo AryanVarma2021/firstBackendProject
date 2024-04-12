@@ -520,3 +520,5 @@ add token refresh endpoint
 
 add export to CSV option
 
+update README
+
