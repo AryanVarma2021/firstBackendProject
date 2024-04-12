@@ -522,3 +522,5 @@ add export to CSV option
 
 update README
 
+improve UI responsiveness
+
