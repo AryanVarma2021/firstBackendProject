@@ -514,3 +514,5 @@ improve caching strategy
 
 adjust card border radius
 
+fix scrollbar visibility
+
