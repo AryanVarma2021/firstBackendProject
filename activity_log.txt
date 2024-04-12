@@ -512,3 +512,5 @@ refactor DB query logic
 
 improve caching strategy
 
+adjust card border radius
+
