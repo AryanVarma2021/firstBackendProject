@@ -534,3 +534,5 @@ improve UI responsiveness
 
 add new feature section
 
+fix alignment issue
+
