@@ -532,3 +532,5 @@ clarify usage section in docs
 
 improve UI responsiveness
 
+add new feature section
+
