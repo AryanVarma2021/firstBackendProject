@@ -526,3 +526,5 @@ improve UI responsiveness
 
 update seed data
 
+add wishlist feature
+
