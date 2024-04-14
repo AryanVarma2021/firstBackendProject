@@ -530,3 +530,5 @@ add wishlist feature
 
 clarify usage section in docs
 
+improve UI responsiveness
+
