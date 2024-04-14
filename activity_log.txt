@@ -524,3 +524,5 @@ update README
 
 improve UI responsiveness
 
+update seed data
+
