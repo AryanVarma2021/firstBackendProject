@@ -528,3 +528,5 @@ update seed data
 
 add wishlist feature
 
+clarify usage section in docs
+
