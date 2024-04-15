@@ -538,3 +538,5 @@ fix alignment issue
 
 cleanup console logs
 
+update splash screen
+
