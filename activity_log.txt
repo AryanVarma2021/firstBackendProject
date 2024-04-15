@@ -540,3 +540,5 @@ cleanup console logs
 
 update splash screen
 
+remove unused variables
+
