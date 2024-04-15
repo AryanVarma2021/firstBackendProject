@@ -542,3 +542,5 @@ update splash screen
 
 remove unused variables
 
+integrate OTP verification
+
