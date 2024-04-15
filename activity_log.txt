@@ -544,3 +544,5 @@ remove unused variables
 
 integrate OTP verification
 
+write setup instructions
+
