@@ -536,3 +536,5 @@ add new feature section
 
 fix alignment issue
 
+cleanup console logs
+
