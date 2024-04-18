@@ -548,3 +548,5 @@ write setup instructions
 
 fix primary key conflict
 
+add loading spinner
+
