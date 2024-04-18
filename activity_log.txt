@@ -552,3 +552,5 @@ add loading spinner
 
 implement soft delete for users
 
+add logout functionality
+
