@@ -550,3 +550,5 @@ fix primary key conflict
 
 add loading spinner
 
+implement soft delete for users
+
