@@ -554,3 +554,5 @@ implement soft delete for users
 
 add logout functionality
 
+add rate limiter
+
