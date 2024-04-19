@@ -556,3 +556,5 @@ add logout functionality
 
 add rate limiter
 
+add toast notifications
+
