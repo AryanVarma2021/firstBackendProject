@@ -564,3 +564,5 @@ write tests for user service
 
 refactor utility functions
 
+add audit logging middleware
+
