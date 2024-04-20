@@ -560,3 +560,5 @@ add toast notifications
 
 add new migration script
 
+write tests for user service
+
