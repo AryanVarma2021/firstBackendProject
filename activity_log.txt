@@ -558,3 +558,5 @@ add rate limiter
 
 add toast notifications
 
+add new migration script
+
