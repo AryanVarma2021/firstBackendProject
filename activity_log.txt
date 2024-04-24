@@ -572,3 +572,5 @@ add type annotations
 
 add wishlist feature
 
+add theme switcher button
+
