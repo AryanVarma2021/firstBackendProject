@@ -570,3 +570,5 @@ refactor DB query logic
 
 add type annotations
 
+add wishlist feature
+
