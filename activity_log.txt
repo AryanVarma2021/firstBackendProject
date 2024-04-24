@@ -568,3 +568,5 @@ add audit logging middleware
 
 refactor DB query logic
 
+add type annotations
+
