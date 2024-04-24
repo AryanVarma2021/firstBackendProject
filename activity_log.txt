@@ -574,3 +574,5 @@ add wishlist feature
 
 add theme switcher button
 
+improve user verification flow
+
