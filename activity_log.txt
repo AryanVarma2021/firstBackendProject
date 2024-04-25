@@ -578,3 +578,5 @@ improve user verification flow
 
 fix font size for mobile view
 
+add email notification system
+
