@@ -584,3 +584,5 @@ fix alignment issue
 
 remove redundant code
 
+update favicon
+
