@@ -580,3 +580,5 @@ fix font size for mobile view
 
 add email notification system
 
+fix alignment issue
+
