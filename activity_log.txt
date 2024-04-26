@@ -582,3 +582,5 @@ add email notification system
 
 fix alignment issue
 
+remove redundant code
+
