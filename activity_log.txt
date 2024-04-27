@@ -588,3 +588,5 @@ update favicon
 
 fix spacing between sections
 
+fix bug in signup flow
+
