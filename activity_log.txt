@@ -596,3 +596,5 @@ adding add button backend logic
 
 add token refresh endpoint
 
+fix bug in signup flow
+
