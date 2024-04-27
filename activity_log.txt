@@ -590,3 +590,5 @@ fix spacing between sections
 
 fix bug in signup flow
 
+fix redirect after login
+
