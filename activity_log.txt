@@ -600,3 +600,5 @@ fix bug in signup flow
 
 add rate limiter
 
+change color scheme
+
