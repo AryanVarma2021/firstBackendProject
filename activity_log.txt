@@ -608,3 +608,5 @@ update splash screen
 
 integrate push notifications
 
+add loading spinner
+
