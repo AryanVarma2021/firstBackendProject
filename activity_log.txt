@@ -602,3 +602,5 @@ add rate limiter
 
 change color scheme
 
+add API documentation
+
