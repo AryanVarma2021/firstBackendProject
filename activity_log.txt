@@ -610,3 +610,5 @@ integrate push notifications
 
 add loading spinner
 
+add default values in schema
+
