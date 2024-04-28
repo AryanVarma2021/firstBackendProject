@@ -598,3 +598,5 @@ add token refresh endpoint
 
 fix bug in signup flow
 
+add rate limiter
+
