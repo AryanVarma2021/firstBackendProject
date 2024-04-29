@@ -612,3 +612,5 @@ add loading spinner
 
 add default values in schema
 
+refactor utility functions
+
