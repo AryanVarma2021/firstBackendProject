@@ -624,3 +624,5 @@ add API documentation
 
 center-align login box
 
+implement soft delete for users
+
