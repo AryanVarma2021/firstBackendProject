@@ -622,3 +622,5 @@ add validation to request body
 
 add API documentation
 
+center-align login box
+
