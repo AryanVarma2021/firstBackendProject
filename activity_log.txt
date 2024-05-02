@@ -626,3 +626,5 @@ center-align login box
 
 implement soft delete for users
 
+clarify usage section in docs
+
