@@ -634,3 +634,5 @@ fix z-index issue in modal
 
 add theme switcher button
 
+update README
+
