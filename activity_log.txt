@@ -632,3 +632,5 @@ adding encryption to database
 
 fix z-index issue in modal
 
+add theme switcher button
+
