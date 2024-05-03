@@ -628,3 +628,5 @@ implement soft delete for users
 
 clarify usage section in docs
 
+adding encryption to database
+
