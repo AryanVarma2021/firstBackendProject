@@ -630,3 +630,5 @@ clarify usage section in docs
 
 adding encryption to database
 
+fix z-index issue in modal
+
