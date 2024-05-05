@@ -638,3 +638,5 @@ update README
 
 add theme switcher button
 
+improve user verification flow
+
