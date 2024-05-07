@@ -646,3 +646,5 @@ align frame
 
 modularize API calls
 
+add logout functionality
+
