@@ -642,3 +642,5 @@ improve user verification flow
 
 center-align login box
 
+align frame
+
