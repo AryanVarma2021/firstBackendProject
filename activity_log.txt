@@ -640,3 +640,5 @@ add theme switcher button
 
 improve user verification flow
 
+center-align login box
+
