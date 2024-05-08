@@ -650,3 +650,5 @@ add logout functionality
 
 refactor class to hooks
 
+remove commented-out code
+
