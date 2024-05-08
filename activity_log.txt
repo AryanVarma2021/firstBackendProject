@@ -652,3 +652,5 @@ refactor class to hooks
 
 remove commented-out code
 
+add type annotations
+
