@@ -666,3 +666,5 @@ optimize image loading
 
 fix font size for mobile view
 
+restructure folder hierarchy
+
