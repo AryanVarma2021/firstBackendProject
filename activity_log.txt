@@ -662,3 +662,5 @@ integrate push notifications
 
 write setup instructions
 
+optimize image loading
+
