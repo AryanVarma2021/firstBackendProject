@@ -660,3 +660,5 @@ add loading spinner
 
 integrate push notifications
 
+write setup instructions
+
