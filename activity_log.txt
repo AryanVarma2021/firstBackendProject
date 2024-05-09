@@ -670,3 +670,5 @@ restructure folder hierarchy
 
 improve caching strategy
 
+add transition animations
+
