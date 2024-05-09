@@ -672,3 +672,5 @@ improve caching strategy
 
 add transition animations
 
+fix crash on missing image
+
