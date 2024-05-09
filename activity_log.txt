@@ -668,3 +668,5 @@ fix font size for mobile view
 
 restructure folder hierarchy
 
+improve caching strategy
+
