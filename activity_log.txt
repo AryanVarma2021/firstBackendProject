@@ -664,3 +664,5 @@ write setup instructions
 
 optimize image loading
 
+fix font size for mobile view
+
