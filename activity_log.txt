@@ -678,3 +678,5 @@ implement webhook handler
 
 fix scrollbar visibility
 
+fix session persistence bug
+
