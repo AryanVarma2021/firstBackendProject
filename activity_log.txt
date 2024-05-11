@@ -676,3 +676,5 @@ fix crash on missing image
 
 implement webhook handler
 
+fix scrollbar visibility
+
