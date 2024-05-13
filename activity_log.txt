@@ -680,3 +680,5 @@ fix scrollbar visibility
 
 fix session persistence bug
 
+fix redirect after login
+
