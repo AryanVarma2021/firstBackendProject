@@ -684,3 +684,5 @@ fix redirect after login
 
 adding add button backend logic
 
+update layout for mobile responsiveness
+
