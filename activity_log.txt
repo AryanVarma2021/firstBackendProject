@@ -686,3 +686,5 @@ adding add button backend logic
 
 update layout for mobile responsiveness
 
+integrate OTP verification
+
