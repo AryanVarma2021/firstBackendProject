@@ -690,3 +690,5 @@ integrate OTP verification
 
 add email notification system
 
+improve error handling
+
