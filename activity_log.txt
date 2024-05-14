@@ -688,3 +688,5 @@ update layout for mobile responsiveness
 
 integrate OTP verification
 
+add email notification system
+
