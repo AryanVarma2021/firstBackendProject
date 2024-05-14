@@ -696,3 +696,5 @@ backend database model is built successfully
 
 add toast notifications
 
+clarify usage section in docs
+
