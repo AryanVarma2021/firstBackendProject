@@ -692,3 +692,5 @@ add email notification system
 
 improve error handling
 
+backend database model is built successfully
+
