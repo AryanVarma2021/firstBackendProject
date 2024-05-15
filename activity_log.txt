@@ -698,3 +698,5 @@ add toast notifications
 
 clarify usage section in docs
 
+add file upload handler
+
