@@ -706,3 +706,5 @@ refactor code structure
 
 modularize API calls
 
+reformat markdown tables
+
