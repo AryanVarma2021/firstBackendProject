@@ -724,3 +724,5 @@ refactor payment gateway integration
 
 add user role validation
 
+refactor utility functions
+
