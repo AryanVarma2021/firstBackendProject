@@ -718,3 +718,5 @@ rename variables for clarity
 
 update API response format
 
+change db column type
+
