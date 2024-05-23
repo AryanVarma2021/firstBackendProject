@@ -726,3 +726,5 @@ add user role validation
 
 refactor utility functions
 
+align navbar properly
+
