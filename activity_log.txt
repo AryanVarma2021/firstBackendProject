@@ -738,3 +738,5 @@ backend database model is built successfully
 
 fix spacing between sections
 
+implement theme persistence
+
