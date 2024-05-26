@@ -742,3 +742,5 @@ implement theme persistence
 
 update user profile layout
 
+fix inconsistent naming conventions
+
