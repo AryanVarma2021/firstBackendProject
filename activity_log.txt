@@ -730,3 +730,5 @@ align navbar properly
 
 add file upload handler
 
+refactor utility functions
+
