@@ -740,3 +740,5 @@ fix spacing between sections
 
 implement theme persistence
 
+update user profile layout
+
