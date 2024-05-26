@@ -736,3 +736,5 @@ add dark mode toggle
 
 backend database model is built successfully
 
+fix spacing between sections
+
