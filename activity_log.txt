@@ -744,3 +744,5 @@ update user profile layout
 
 fix inconsistent naming conventions
 
+fix typo in documentation
+
