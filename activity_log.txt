@@ -748,3 +748,5 @@ fix typo in documentation
 
 add token refresh endpoint
 
+update README with setup steps
+
