@@ -754,3 +754,5 @@ add logout functionality
 
 add rate limiter
 
+improve user verification flow
+
