@@ -756,3 +756,5 @@ add rate limiter
 
 improve user verification flow
 
+remove unused variables
+
