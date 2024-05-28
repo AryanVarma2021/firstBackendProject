@@ -752,3 +752,5 @@ update README with setup steps
 
 add logout functionality
 
+add rate limiter
+
