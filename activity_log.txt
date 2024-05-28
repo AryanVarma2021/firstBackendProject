@@ -758,3 +758,5 @@ improve user verification flow
 
 remove unused variables
 
+integrate social login
+
