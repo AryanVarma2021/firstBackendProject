@@ -750,3 +750,5 @@ add token refresh endpoint
 
 update README with setup steps
 
+add logout functionality
+
