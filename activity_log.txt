@@ -768,3 +768,5 @@ enable multi-language support
 
 refactor form components
 
+fix session persistence bug
+
