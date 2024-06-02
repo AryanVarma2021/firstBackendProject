@@ -774,3 +774,5 @@ fix broken image in README
 
 handle null pointer in user service
 
+add wishlist feature
+
