@@ -772,3 +772,5 @@ fix session persistence bug
 
 fix broken image in README
 
+handle null pointer in user service
+
