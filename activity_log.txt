@@ -776,3 +776,5 @@ handle null pointer in user service
 
 add wishlist feature
 
+write tests for user service
+
