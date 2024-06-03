@@ -784,3 +784,5 @@ add image carousel
 
 update logic for cart item removal
 
+backend database model is built successfully
+
