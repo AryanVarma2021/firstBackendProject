@@ -786,3 +786,5 @@ update logic for cart item removal
 
 backend database model is built successfully
 
+update README with setup steps
+
