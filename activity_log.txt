@@ -782,3 +782,5 @@ add new illustration in hero section
 
 add image carousel
 
+update logic for cart item removal
+
