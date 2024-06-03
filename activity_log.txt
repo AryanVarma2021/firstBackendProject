@@ -780,3 +780,5 @@ write tests for user service
 
 add new illustration in hero section
 
+add image carousel
+
