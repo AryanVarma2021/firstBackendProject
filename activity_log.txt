@@ -790,3 +790,5 @@ update README with setup steps
 
 fix session persistence bug
 
+clarify usage section in docs
+
