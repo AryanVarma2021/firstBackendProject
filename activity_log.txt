@@ -798,3 +798,5 @@ update layout for mobile responsiveness
 
 center-align login box
 
+refactor DB query logic
+
