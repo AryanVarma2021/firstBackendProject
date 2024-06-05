@@ -802,3 +802,5 @@ refactor DB query logic
 
 fix spacing between sections
 
+implement soft delete for users
+
