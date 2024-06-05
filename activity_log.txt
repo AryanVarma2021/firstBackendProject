@@ -794,3 +794,5 @@ clarify usage section in docs
 
 change button hover effect
 
+update layout for mobile responsiveness
+
