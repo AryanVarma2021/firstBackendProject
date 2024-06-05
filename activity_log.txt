@@ -800,3 +800,5 @@ center-align login box
 
 refactor DB query logic
 
+fix spacing between sections
+
