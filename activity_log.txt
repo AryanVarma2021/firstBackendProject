@@ -788,3 +788,5 @@ backend database model is built successfully
 
 update README with setup steps
 
+fix session persistence bug
+
