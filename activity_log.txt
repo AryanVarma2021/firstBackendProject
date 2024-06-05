@@ -792,3 +792,5 @@ fix session persistence bug
 
 clarify usage section in docs
 
+change button hover effect
+
