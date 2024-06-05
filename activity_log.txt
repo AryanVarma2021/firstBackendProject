@@ -796,3 +796,5 @@ change button hover effect
 
 update layout for mobile responsiveness
 
+center-align login box
+
