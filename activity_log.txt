@@ -806,3 +806,5 @@ implement soft delete for users
 
 update seed data
 
+fix infinite loop in polling
+
