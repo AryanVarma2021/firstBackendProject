@@ -810,3 +810,5 @@ fix infinite loop in polling
 
 add transition animations
 
+add API documentation
+
