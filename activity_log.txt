@@ -812,3 +812,5 @@ add transition animations
 
 add API documentation
 
+refactor image upload logic
+
