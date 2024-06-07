@@ -818,3 +818,5 @@ fix error on empty request
 
 update dependencies
 
+add user role validation
+
