@@ -814,3 +814,5 @@ add API documentation
 
 refactor image upload logic
 
+fix error on empty request
+
