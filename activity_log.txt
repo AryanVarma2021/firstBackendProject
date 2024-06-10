@@ -824,3 +824,5 @@ add button at bottom
 
 refactor class to hooks
 
+fix font size for mobile view
+
