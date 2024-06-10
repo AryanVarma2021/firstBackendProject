@@ -830,3 +830,5 @@ update splash screen
 
 center-align login box
 
+update JWT expiry logic
+
