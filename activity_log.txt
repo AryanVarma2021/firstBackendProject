@@ -828,3 +828,5 @@ fix font size for mobile view
 
 update splash screen
 
+center-align login box
+
