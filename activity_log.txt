@@ -826,3 +826,5 @@ refactor class to hooks
 
 fix font size for mobile view
 
+update splash screen
+
