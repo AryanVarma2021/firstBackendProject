@@ -834,3 +834,5 @@ update JWT expiry logic
 
 add icons to sidebar
 
+add token refresh endpoint
+
