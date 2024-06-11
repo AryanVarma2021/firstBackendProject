@@ -832,3 +832,5 @@ center-align login box
 
 update JWT expiry logic
 
+add icons to sidebar
+
