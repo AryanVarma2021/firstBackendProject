@@ -838,3 +838,5 @@ add token refresh endpoint
 
 write setup instructions
 
+extract constants
+
