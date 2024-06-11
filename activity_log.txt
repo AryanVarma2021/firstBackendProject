@@ -836,3 +836,5 @@ add icons to sidebar
 
 add token refresh endpoint
 
+write setup instructions
+
