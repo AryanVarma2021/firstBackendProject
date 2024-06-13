@@ -854,3 +854,5 @@ modularize API calls
 
 write tests for user service
 
+add icons to sidebar
+
