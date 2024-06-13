@@ -848,3 +848,5 @@ rename variables for clarity
 
 improve caching strategy
 
+improve error handling
+
