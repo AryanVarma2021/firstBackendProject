@@ -852,3 +852,5 @@ improve error handling
 
 modularize API calls
 
+write tests for user service
+
