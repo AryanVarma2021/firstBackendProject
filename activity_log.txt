@@ -842,3 +842,5 @@ extract constants
 
 update seed data
 
+add new migration script
+
