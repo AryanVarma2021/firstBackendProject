@@ -860,3 +860,5 @@ update environment variable list
 
 fix alignment issue
 
+update changelog
+
