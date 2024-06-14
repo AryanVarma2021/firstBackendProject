@@ -856,3 +856,5 @@ write tests for user service
 
 add icons to sidebar
 
+update environment variable list
+
