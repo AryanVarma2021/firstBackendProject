@@ -858,3 +858,5 @@ add icons to sidebar
 
 update environment variable list
 
+fix alignment issue
+
