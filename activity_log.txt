@@ -866,3 +866,5 @@ add comments for clarity
 
 update seed data
 
+fix error on empty request
+
