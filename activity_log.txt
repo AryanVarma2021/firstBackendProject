@@ -870,3 +870,5 @@ fix error on empty request
 
 change color scheme
 
+improve caching strategy
+
