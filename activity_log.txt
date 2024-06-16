@@ -872,3 +872,5 @@ change color scheme
 
 improve caching strategy
 
+add logout functionality
+
