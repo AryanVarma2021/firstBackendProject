@@ -876,3 +876,5 @@ add logout functionality
 
 improve user verification flow
 
+fix typo in endpoint route
+
