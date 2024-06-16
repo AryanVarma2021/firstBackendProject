@@ -874,3 +874,5 @@ improve caching strategy
 
 add logout functionality
 
+improve user verification flow
+
