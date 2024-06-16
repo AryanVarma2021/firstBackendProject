@@ -878,3 +878,5 @@ improve user verification flow
 
 fix typo in endpoint route
 
+document new endpoints
+
