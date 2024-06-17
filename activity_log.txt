@@ -886,3 +886,5 @@ add footer links
 
 update dependencies
 
+add user activity log
+
