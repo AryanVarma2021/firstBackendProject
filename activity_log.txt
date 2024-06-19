@@ -888,3 +888,5 @@ update dependencies
 
 add user activity log
 
+update layout for mobile responsiveness
+
