@@ -890,3 +890,5 @@ add user activity log
 
 update layout for mobile responsiveness
 
+restructure folder hierarchy
+
