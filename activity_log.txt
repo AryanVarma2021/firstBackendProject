@@ -896,3 +896,5 @@ add button at bottom
 
 add toast notifications
 
+fix product search filtering
+
