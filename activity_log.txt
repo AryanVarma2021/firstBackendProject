@@ -898,3 +898,5 @@ add toast notifications
 
 fix product search filtering
 
+integrate push notifications
+
