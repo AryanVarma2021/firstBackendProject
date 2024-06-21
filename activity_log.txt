@@ -900,3 +900,5 @@ fix product search filtering
 
 integrate push notifications
 
+fix typo in CONTRIBUTING.md
+
