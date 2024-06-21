@@ -902,3 +902,5 @@ integrate push notifications
 
 fix typo in CONTRIBUTING.md
 
+add user activity log
+
