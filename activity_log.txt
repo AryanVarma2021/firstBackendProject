@@ -910,3 +910,5 @@ fix typo in CONTRIBUTING.md
 
 add theme switcher button
 
+add default values in schema
+
