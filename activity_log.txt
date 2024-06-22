@@ -912,3 +912,5 @@ add theme switcher button
 
 add default values in schema
 
+integrate social login
+
