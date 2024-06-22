@@ -916,3 +916,5 @@ integrate social login
 
 cleanup console logs
 
+add transition animations
+
