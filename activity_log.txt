@@ -908,3 +908,5 @@ adjust card border radius
 
 fix typo in CONTRIBUTING.md
 
+add theme switcher button
+
