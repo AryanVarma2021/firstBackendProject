@@ -922,3 +922,5 @@ enable multi-language support
 
 add validation to request body
 
+implement forgot password logic
+
