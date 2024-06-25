@@ -926,3 +926,5 @@ implement forgot password logic
 
 optimize SQL joins
 
+refactor image upload logic
+
