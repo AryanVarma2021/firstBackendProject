@@ -924,3 +924,5 @@ add validation to request body
 
 implement forgot password logic
 
+optimize SQL joins
+
