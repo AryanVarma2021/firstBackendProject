@@ -928,3 +928,5 @@ optimize SQL joins
 
 refactor image upload logic
 
+handle null pointer in user service
+
