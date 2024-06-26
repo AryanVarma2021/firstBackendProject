@@ -932,3 +932,5 @@ handle null pointer in user service
 
 integrate OTP verification
 
+add user activity log
+
