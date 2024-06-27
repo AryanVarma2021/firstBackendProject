@@ -942,3 +942,5 @@ add type annotations
 
 adjust card border radius
 
+handle null pointer in user service
+
