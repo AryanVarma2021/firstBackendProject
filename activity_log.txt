@@ -938,3 +938,5 @@ refactor payment gateway integration
 
 fix typo in documentation
 
+add type annotations
+
