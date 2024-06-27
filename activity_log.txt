@@ -936,3 +936,5 @@ add user activity log
 
 refactor payment gateway integration
 
+fix typo in documentation
+
