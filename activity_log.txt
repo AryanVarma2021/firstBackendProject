@@ -940,3 +940,5 @@ fix typo in documentation
 
 add type annotations
 
+adjust card border radius
+
