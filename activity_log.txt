@@ -950,3 +950,5 @@ add payment receipt download
 
 fix typo in endpoint route
 
+optimize SQL joins
+
