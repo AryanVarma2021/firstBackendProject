@@ -952,3 +952,5 @@ fix typo in endpoint route
 
 optimize SQL joins
 
+adding backend functionalities
+
