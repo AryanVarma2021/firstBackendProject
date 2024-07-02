@@ -954,3 +954,5 @@ optimize SQL joins
 
 adding backend functionalities
 
+add comments for clarity
+
