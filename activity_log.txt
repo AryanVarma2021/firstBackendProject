@@ -960,3 +960,5 @@ center-align login box
 
 fix primary key conflict
 
+improve doc string clarity
+
