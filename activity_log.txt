@@ -964,3 +964,5 @@ improve doc string clarity
 
 implement soft delete for users
 
+extract constants
+
