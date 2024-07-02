@@ -962,3 +962,5 @@ fix primary key conflict
 
 improve doc string clarity
 
+implement soft delete for users
+
