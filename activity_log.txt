@@ -976,3 +976,5 @@ update dependencies
 
 fix z-index issue in modal
 
+improve modal close behavior
+
