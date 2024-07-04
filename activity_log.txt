@@ -982,3 +982,5 @@ add wishlist feature
 
 update environment variable list
 
+remove commented-out code
+
