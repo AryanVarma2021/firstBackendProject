@@ -980,3 +980,5 @@ improve modal close behavior
 
 add wishlist feature
 
+update environment variable list
+
