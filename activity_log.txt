@@ -974,3 +974,5 @@ add new illustration in hero section
 
 update dependencies
 
+fix z-index issue in modal
+
