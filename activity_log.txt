@@ -972,3 +972,5 @@ refactor utility functions
 
 add new illustration in hero section
 
+update dependencies
+
