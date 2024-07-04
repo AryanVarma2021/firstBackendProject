@@ -970,3 +970,5 @@ align frame
 
 refactor utility functions
 
+add new illustration in hero section
+
