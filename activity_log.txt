@@ -978,3 +978,5 @@ fix z-index issue in modal
 
 improve modal close behavior
 
+add wishlist feature
+
