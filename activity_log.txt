@@ -986,3 +986,5 @@ remove commented-out code
 
 split large file into modules
 
+add transition animations
+
