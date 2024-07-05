@@ -994,3 +994,5 @@ fix bug in login form
 
 implement two-factor auth
 
+fix product search filtering
+
