@@ -998,3 +998,5 @@ fix product search filtering
 
 update layout for mobile responsiveness
 
+optimize image loading
+
