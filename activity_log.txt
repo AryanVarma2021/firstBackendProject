@@ -1006,3 +1006,5 @@ implement admin dashboard
 
 implement theme persistence
 
+add theme switcher button
+
