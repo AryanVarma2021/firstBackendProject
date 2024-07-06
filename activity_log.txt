@@ -1000,3 +1000,5 @@ update layout for mobile responsiveness
 
 optimize image loading
 
+document new endpoints
+
