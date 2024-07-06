@@ -1008,3 +1008,5 @@ implement theme persistence
 
 add theme switcher button
 
+add user role validation
+
