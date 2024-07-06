@@ -1004,3 +1004,5 @@ document new endpoints
 
 implement admin dashboard
 
+implement theme persistence
+
