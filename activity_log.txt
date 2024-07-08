@@ -1020,3 +1020,5 @@ update splash screen
 
 fix spacing between sections
 
+add API documentation
+
