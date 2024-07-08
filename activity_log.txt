@@ -1018,3 +1018,5 @@ add toast notifications
 
 update splash screen
 
+fix spacing between sections
+
