@@ -1012,3 +1012,5 @@ add user role validation
 
 refactor image upload logic
 
+add icons to sidebar
+
