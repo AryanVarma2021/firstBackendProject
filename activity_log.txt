@@ -1014,3 +1014,5 @@ refactor image upload logic
 
 add icons to sidebar
 
+add toast notifications
+
