@@ -1026,3 +1026,5 @@ remove commented-out code
 
 cleanup console logs
 
+fix spacing between sections
+
