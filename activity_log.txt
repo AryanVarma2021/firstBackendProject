@@ -1024,3 +1024,5 @@ add API documentation
 
 remove commented-out code
 
+cleanup console logs
+
