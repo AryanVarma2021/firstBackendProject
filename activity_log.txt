@@ -1022,3 +1022,5 @@ fix spacing between sections
 
 add API documentation
 
+remove commented-out code
+
