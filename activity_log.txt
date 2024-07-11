@@ -1032,3 +1032,5 @@ implement admin dashboard
 
 remove unused variables
 
+add new migration script
+
