@@ -1034,3 +1034,5 @@ remove unused variables
 
 add new migration script
 
+add theme switcher button
+
