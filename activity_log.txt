@@ -1030,3 +1030,5 @@ fix spacing between sections
 
 implement admin dashboard
 
+remove unused variables
+
