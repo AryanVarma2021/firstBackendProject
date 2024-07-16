@@ -1044,3 +1044,5 @@ fix bug in signup flow
 
 fix crash on missing image
 
+fix redirect after login
+
