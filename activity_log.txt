@@ -1048,3 +1048,5 @@ fix redirect after login
 
 update dependencies
 
+implement soft delete for users
+
