@@ -1058,3 +1058,5 @@ add footer links
 
 rename variables for clarity
 
+refactor DB query logic
+
