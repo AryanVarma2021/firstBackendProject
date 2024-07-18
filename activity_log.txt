@@ -1052,3 +1052,5 @@ implement soft delete for users
 
 modularize API calls
 
+implement soft delete for users
+
