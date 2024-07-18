@@ -1056,3 +1056,5 @@ implement soft delete for users
 
 add footer links
 
+rename variables for clarity
+
