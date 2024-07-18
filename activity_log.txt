@@ -1054,3 +1054,5 @@ modularize API calls
 
 implement soft delete for users
 
+add footer links
+
