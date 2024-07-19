@@ -1062,3 +1062,5 @@ refactor DB query logic
 
 clarify usage section in docs
 
+extract constants
+
