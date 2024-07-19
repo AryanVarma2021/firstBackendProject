@@ -1066,3 +1066,5 @@ extract constants
 
 add review and rating module
 
+refactor class to hooks
+
