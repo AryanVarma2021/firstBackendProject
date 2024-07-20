@@ -1068,3 +1068,5 @@ add review and rating module
 
 refactor class to hooks
 
+integrate push notifications
+
