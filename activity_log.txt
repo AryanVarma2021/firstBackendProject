@@ -1076,3 +1076,5 @@ fix alignment issue
 
 adding encryption to database
 
+fix typo in CONTRIBUTING.md
+
