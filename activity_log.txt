@@ -1072,3 +1072,5 @@ integrate push notifications
 
 rename variables for clarity
 
+fix alignment issue
+
