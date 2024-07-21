@@ -1082,3 +1082,5 @@ write setup instructions
 
 fix typo in endpoint route
 
+optimize SQL joins
+
