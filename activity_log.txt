@@ -1070,3 +1070,5 @@ refactor class to hooks
 
 integrate push notifications
 
+rename variables for clarity
+
