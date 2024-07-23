@@ -1088,3 +1088,5 @@ fix infinite loop in polling
 
 fix typo in endpoint route
 
+add review and rating module
+
