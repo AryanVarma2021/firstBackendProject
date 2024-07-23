@@ -1096,3 +1096,5 @@ improve user verification flow
 
 fix error on empty request
 
+add rate limiter
+
