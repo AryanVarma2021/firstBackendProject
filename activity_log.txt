@@ -1090,3 +1090,5 @@ fix typo in endpoint route
 
 add review and rating module
 
+refactor class to hooks
+
