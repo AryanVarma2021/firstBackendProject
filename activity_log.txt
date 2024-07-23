@@ -1094,3 +1094,5 @@ refactor class to hooks
 
 improve user verification flow
 
+fix error on empty request
+
