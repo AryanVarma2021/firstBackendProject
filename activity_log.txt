@@ -1084,3 +1084,5 @@ fix typo in endpoint route
 
 optimize SQL joins
 
+fix infinite loop in polling
+
