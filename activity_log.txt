@@ -1106,3 +1106,5 @@ fix broken image in README
 
 add button at bottom
 
+fix bug in signup flow
+
