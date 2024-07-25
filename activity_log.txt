@@ -1116,3 +1116,5 @@ integrate push notifications
 
 adding add button backend logic
 
+add user role validation
+
