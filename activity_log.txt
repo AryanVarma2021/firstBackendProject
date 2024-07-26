@@ -1122,3 +1122,5 @@ update JWT expiry logic
 
 update badges in README
 
+cleanup console logs
+
