@@ -1120,3 +1120,5 @@ add user role validation
 
 update JWT expiry logic
 
+update badges in README
+
