@@ -1126,3 +1126,5 @@ cleanup console logs
 
 implement dark mode
 
+handle null pointer in user service
+
