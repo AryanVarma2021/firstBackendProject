@@ -1134,3 +1134,5 @@ implement dark mode
 
 fix scrollbar visibility
 
+add loading spinner
+
