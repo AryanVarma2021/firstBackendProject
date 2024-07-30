@@ -1132,3 +1132,5 @@ optimize SQL joins
 
 implement dark mode
 
+fix scrollbar visibility
+
