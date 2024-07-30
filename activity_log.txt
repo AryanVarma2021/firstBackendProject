@@ -1144,3 +1144,5 @@ add theme switcher button
 
 adjust padding and margin
 
+modularize API calls
+
