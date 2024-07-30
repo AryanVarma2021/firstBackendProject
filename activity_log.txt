@@ -1138,3 +1138,5 @@ add loading spinner
 
 fix scrollbar visibility
 
+clarify usage section in docs
+
