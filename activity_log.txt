@@ -1152,3 +1152,5 @@ cleanup console logs
 
 update badges in README
 
+update README
+
