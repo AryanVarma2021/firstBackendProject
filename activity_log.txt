@@ -1148,3 +1148,5 @@ modularize API calls
 
 update environment variable list
 
+cleanup console logs
+
