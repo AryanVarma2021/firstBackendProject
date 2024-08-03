@@ -1164,3 +1164,5 @@ fix session persistence bug
 
 change font family to Roboto
 
+fix header logo alignment
+
