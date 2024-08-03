@@ -1160,3 +1160,5 @@ integrate social login
 
 fix z-index issue in modal
 
+fix session persistence bug
+
