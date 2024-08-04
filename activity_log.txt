@@ -1168,3 +1168,5 @@ fix header logo alignment
 
 integrate push notifications
 
+fix typo in CONTRIBUTING.md
+
