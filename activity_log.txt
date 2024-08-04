@@ -1170,3 +1170,5 @@ integrate push notifications
 
 fix typo in CONTRIBUTING.md
 
+add icons to sidebar
+
