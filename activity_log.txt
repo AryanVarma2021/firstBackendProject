@@ -1182,3 +1182,5 @@ implement soft delete for users
 
 add payment receipt download
 
+add new migration script
+
