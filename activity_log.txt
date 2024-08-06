@@ -1174,3 +1174,5 @@ add icons to sidebar
 
 implement admin dashboard
 
+fix typo in endpoint route
+
