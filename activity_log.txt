@@ -1186,3 +1186,5 @@ add new migration script
 
 refactor code structure
 
+update logic for cart item removal
+
