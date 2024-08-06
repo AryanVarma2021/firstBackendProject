@@ -1178,3 +1178,5 @@ fix typo in endpoint route
 
 add file upload handler
 
+implement soft delete for users
+
