@@ -1192,3 +1192,5 @@ update code formatting
 
 fix alignment issue
 
+fix redirect after login
+
