@@ -1190,3 +1190,5 @@ update logic for cart item removal
 
 update code formatting
 
+fix alignment issue
+
