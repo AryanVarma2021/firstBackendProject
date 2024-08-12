@@ -1206,3 +1206,5 @@ add user activity log
 
 update logic for cart item removal
 
+update README with setup steps
+
