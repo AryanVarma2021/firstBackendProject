@@ -1204,3 +1204,5 @@ adjust card border radius
 
 add user activity log
 
+update logic for cart item removal
+
