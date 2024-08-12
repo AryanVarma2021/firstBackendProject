@@ -1200,3 +1200,5 @@ add theme switcher button
 
 add export to CSV option
 
+adjust card border radius
+
