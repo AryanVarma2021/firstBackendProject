@@ -1208,3 +1208,5 @@ update logic for cart item removal
 
 update README with setup steps
 
+clarify usage section in docs
+
