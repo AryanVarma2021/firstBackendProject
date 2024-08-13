@@ -1210,3 +1210,5 @@ update README with setup steps
 
 clarify usage section in docs
 
+write tests for user service
+
