@@ -1222,3 +1222,5 @@ change db column type
 
 update API response format
 
+fix product search filtering
+
