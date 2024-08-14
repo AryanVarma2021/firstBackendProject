@@ -1218,3 +1218,5 @@ fix session persistence bug
 
 modularize API calls
 
+change db column type
+
