@@ -1216,3 +1216,5 @@ implement dark mode
 
 fix session persistence bug
 
+modularize API calls
+
