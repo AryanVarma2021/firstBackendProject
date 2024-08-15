@@ -1230,3 +1230,5 @@ refactor image upload logic
 
 simplify conditional logic
 
+update README with setup steps
+
