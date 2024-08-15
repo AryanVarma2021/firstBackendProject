@@ -1232,3 +1232,5 @@ simplify conditional logic
 
 update README with setup steps
 
+update code formatting
+
