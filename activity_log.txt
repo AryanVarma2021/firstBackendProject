@@ -1238,3 +1238,5 @@ integrate OTP verification
 
 refactor payment gateway integration
 
+add logout functionality
+
