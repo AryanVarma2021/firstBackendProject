@@ -1228,3 +1228,5 @@ add type annotations
 
 refactor image upload logic
 
+simplify conditional logic
+
