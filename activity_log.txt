@@ -1224,3 +1224,5 @@ update API response format
 
 fix product search filtering
 
+add type annotations
+
