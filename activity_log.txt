@@ -1246,3 +1246,5 @@ refactor DB query logic
 
 optimize SQL joins
 
+adding encryption to database
+
