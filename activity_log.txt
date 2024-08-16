@@ -1244,3 +1244,5 @@ integrate social login
 
 refactor DB query logic
 
+optimize SQL joins
+
