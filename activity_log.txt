@@ -1242,3 +1242,5 @@ add logout functionality
 
 integrate social login
 
+refactor DB query logic
+
