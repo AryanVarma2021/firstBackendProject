@@ -1248,3 +1248,5 @@ optimize SQL joins
 
 adding encryption to database
 
+refactor utility functions
+
