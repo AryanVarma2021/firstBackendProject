@@ -1266,3 +1266,5 @@ implement theme persistence
 
 improve form validation UI
 
+fix inconsistent naming conventions
+
