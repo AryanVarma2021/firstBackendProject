@@ -1256,3 +1256,5 @@ update user profile layout
 
 optimize image loading
 
+add footer links
+
