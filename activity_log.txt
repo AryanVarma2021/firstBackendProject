@@ -1264,3 +1264,5 @@ implement forgot password logic
 
 implement theme persistence
 
+improve form validation UI
+
