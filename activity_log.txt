@@ -1260,3 +1260,5 @@ add footer links
 
 fix session persistence bug
 
+implement forgot password logic
+
