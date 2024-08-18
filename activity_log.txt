@@ -1262,3 +1262,5 @@ fix session persistence bug
 
 implement forgot password logic
 
+implement theme persistence
+
