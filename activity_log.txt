@@ -1258,3 +1258,5 @@ optimize image loading
 
 add footer links
 
+fix session persistence bug
+
