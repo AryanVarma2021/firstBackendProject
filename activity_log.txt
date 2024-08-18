@@ -1252,3 +1252,5 @@ refactor utility functions
 
 update environment variable list
 
+update user profile layout
+
