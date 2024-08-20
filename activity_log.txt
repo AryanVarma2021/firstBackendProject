@@ -1278,3 +1278,5 @@ add rate limiter
 
 fix infinite loop in polling
 
+add indexing for faster queries
+
