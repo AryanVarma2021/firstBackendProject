@@ -1274,3 +1274,5 @@ improve UI responsiveness
 
 update logic for cart item removal
 
+add rate limiter
+
