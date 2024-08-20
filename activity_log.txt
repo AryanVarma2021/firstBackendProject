@@ -1272,3 +1272,5 @@ fix session persistence bug
 
 improve UI responsiveness
 
+update logic for cart item removal
+
