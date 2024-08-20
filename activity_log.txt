@@ -1270,3 +1270,5 @@ fix inconsistent naming conventions
 
 fix session persistence bug
 
+improve UI responsiveness
+
