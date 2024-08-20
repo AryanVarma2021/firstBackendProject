@@ -1268,3 +1268,5 @@ improve form validation UI
 
 fix inconsistent naming conventions
 
+fix session persistence bug
+
