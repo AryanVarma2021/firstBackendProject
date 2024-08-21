@@ -1288,3 +1288,5 @@ implement theme persistence
 
 document new endpoints
 
+add logout functionality
+
