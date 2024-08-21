@@ -1284,3 +1284,5 @@ fix spacing between sections
 
 fix bug in login form
 
+implement theme persistence
+
