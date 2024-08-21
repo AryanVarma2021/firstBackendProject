@@ -1286,3 +1286,5 @@ fix bug in login form
 
 implement theme persistence
 
+document new endpoints
+
