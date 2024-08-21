@@ -1282,3 +1282,5 @@ add indexing for faster queries
 
 fix spacing between sections
 
+fix bug in login form
+
