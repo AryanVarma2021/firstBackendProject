@@ -1280,3 +1280,5 @@ fix infinite loop in polling
 
 add indexing for faster queries
 
+fix spacing between sections
+
