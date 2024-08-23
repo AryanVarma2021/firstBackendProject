@@ -1294,3 +1294,5 @@ implement theme persistence
 
 update API response format
 
+fix font size for mobile view
+
