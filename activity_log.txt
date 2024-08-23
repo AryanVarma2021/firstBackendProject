@@ -1292,3 +1292,5 @@ add logout functionality
 
 implement theme persistence
 
+update API response format
+
