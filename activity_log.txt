@@ -1298,3 +1298,5 @@ fix font size for mobile view
 
 improve caching strategy
 
+add architecture diagram
+
