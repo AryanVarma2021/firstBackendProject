@@ -1306,3 +1306,5 @@ update code formatting
 
 enable multi-language support
 
+handle null pointer in user service
+
