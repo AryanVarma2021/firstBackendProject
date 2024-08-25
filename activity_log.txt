@@ -1318,3 +1318,5 @@ adjust padding and margin
 
 write tests for user service
 
+add comment blocks to main classes
+
