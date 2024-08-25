@@ -1310,3 +1310,5 @@ handle null pointer in user service
 
 implement admin dashboard
 
+handle null pointer in user service
+
