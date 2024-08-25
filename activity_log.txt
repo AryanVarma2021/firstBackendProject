@@ -1316,3 +1316,5 @@ update badges in README
 
 adjust padding and margin
 
+write tests for user service
+
