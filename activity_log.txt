@@ -1322,3 +1322,5 @@ add comment blocks to main classes
 
 write tests for user service
 
+fix session persistence bug
+
