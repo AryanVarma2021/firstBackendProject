@@ -1324,3 +1324,5 @@ write tests for user service
 
 fix session persistence bug
 
+fix broken image in README
+
