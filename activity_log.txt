@@ -1328,3 +1328,5 @@ fix broken image in README
 
 fix scrollbar visibility
 
+adjust card border radius
+
