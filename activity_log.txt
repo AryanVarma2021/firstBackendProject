@@ -1326,3 +1326,5 @@ fix session persistence bug
 
 fix broken image in README
 
+fix scrollbar visibility
+
