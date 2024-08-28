@@ -1332,3 +1332,5 @@ adjust card border radius
 
 change font family to Roboto
 
+update user profile layout
+
