@@ -1346,3 +1346,5 @@ refactor utility functions
 
 refactor code structure
 
+rename variables for clarity
+
