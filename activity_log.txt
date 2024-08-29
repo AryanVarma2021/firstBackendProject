@@ -1350,3 +1350,5 @@ rename variables for clarity
 
 add audit logging middleware
 
+center-align login box
+
