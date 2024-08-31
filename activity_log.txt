@@ -1354,3 +1354,5 @@ center-align login box
 
 fix product search filtering
 
+adding backend functionalities
+
