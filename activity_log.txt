@@ -1366,3 +1366,5 @@ optimize SQL joins
 
 fix scrollbar visibility
 
+refactor image upload logic
+
