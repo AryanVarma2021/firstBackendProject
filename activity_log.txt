@@ -1360,3 +1360,5 @@ change font family to Roboto
 
 remove redundant code
 
+add transition animations
+
