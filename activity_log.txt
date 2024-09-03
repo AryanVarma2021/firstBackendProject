@@ -1362,3 +1362,5 @@ remove redundant code
 
 add transition animations
 
+optimize SQL joins
+
