@@ -1364,3 +1364,5 @@ add transition animations
 
 optimize SQL joins
 
+fix scrollbar visibility
+
