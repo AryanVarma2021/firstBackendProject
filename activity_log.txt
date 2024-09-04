@@ -1368,3 +1368,5 @@ fix scrollbar visibility
 
 refactor image upload logic
 
+add logout functionality
+
