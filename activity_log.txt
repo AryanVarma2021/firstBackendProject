@@ -1378,3 +1378,5 @@ remove redundant code
 
 implement forgot password logic
 
+implement theme persistence
+
