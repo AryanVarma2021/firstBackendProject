@@ -1376,3 +1376,5 @@ refactor form components
 
 remove redundant code
 
+implement forgot password logic
+
