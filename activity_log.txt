@@ -1382,3 +1382,5 @@ implement theme persistence
 
 adding encryption to database
 
+adjust padding and margin
+
