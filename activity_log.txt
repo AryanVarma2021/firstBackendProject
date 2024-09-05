@@ -1386,3 +1386,5 @@ adjust padding and margin
 
 refactor code structure
 
+remove unused variables
+
