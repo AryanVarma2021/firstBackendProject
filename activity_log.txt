@@ -1388,3 +1388,5 @@ refactor code structure
 
 remove unused variables
 
+update user profile layout
+
