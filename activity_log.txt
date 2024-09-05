@@ -1384,3 +1384,5 @@ adding encryption to database
 
 adjust padding and margin
 
+refactor code structure
+
