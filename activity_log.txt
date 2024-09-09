@@ -1394,3 +1394,5 @@ add button at bottom
 
 implement dark mode
 
+optimize SQL joins
+
