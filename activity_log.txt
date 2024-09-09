@@ -1398,3 +1398,5 @@ optimize SQL joins
 
 add user activity log
 
+update README with setup steps
+
