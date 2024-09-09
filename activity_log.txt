@@ -1400,3 +1400,5 @@ add user activity log
 
 update README with setup steps
 
+add image carousel
+
