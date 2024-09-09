@@ -1396,3 +1396,5 @@ implement dark mode
 
 optimize SQL joins
 
+add user activity log
+
