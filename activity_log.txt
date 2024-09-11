@@ -1414,3 +1414,5 @@ fix alignment issue
 
 refactor image upload logic
 
+update API response format
+
