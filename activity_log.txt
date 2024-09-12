@@ -1418,3 +1418,5 @@ update API response format
 
 add payment receipt download
 
+integrate social login
+
