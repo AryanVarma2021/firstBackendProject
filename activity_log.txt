@@ -1420,3 +1420,5 @@ add payment receipt download
 
 integrate social login
 
+adding encryption to database
+
