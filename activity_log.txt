@@ -1436,3 +1436,5 @@ refactor utility functions
 
 adjust padding and margin
 
+add indexing for faster queries
+
