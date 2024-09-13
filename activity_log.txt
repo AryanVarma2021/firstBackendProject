@@ -1442,3 +1442,5 @@ fix bug in pagination
 
 fix header logo alignment
 
+add theme switcher button
+
