@@ -1456,3 +1456,5 @@ add theme switcher button
 
 fix error on empty request
 
+update splash screen
+
