@@ -1454,3 +1454,5 @@ center-align login box
 
 add theme switcher button
 
+fix error on empty request
+
