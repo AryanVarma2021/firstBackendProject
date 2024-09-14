@@ -1448,3 +1448,5 @@ add logout functionality
 
 improve user verification flow
 
+adding backend functionalities
+
