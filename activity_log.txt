@@ -1452,3 +1452,5 @@ adding backend functionalities
 
 center-align login box
 
+add theme switcher button
+
