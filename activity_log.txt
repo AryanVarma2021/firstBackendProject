@@ -1444,3 +1444,5 @@ fix header logo alignment
 
 add theme switcher button
 
+add logout functionality
+
