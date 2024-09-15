@@ -1462,3 +1462,5 @@ integrate push notifications
 
 implement soft delete for users
 
+fix bug in login form
+
