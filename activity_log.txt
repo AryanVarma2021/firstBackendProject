@@ -1464,3 +1464,5 @@ implement soft delete for users
 
 fix bug in login form
 
+fix crash on missing image
+
