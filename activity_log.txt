@@ -1460,3 +1460,5 @@ update splash screen
 
 integrate push notifications
 
+implement soft delete for users
+
