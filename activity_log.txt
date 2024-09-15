@@ -1466,3 +1466,5 @@ fix bug in login form
 
 fix crash on missing image
 
+fix bug in login form
+
