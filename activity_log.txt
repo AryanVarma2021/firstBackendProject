@@ -1472,3 +1472,5 @@ fix z-index issue in modal
 
 fix error on empty request
 
+remove commented-out code
+
