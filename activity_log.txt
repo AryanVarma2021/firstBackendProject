@@ -1482,3 +1482,5 @@ fix redirect after login
 
 adjust card border radius
 
+add default values in schema
+
