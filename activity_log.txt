@@ -1480,3 +1480,5 @@ optimize image loading
 
 fix redirect after login
 
+adjust card border radius
+
