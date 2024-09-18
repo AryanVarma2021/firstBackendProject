@@ -1478,3 +1478,5 @@ refactor DB query logic
 
 optimize image loading
 
+fix redirect after login
+
