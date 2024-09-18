@@ -1474,3 +1474,5 @@ fix error on empty request
 
 remove commented-out code
 
+refactor DB query logic
+
