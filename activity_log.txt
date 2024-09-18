@@ -1470,3 +1470,5 @@ fix bug in login form
 
 fix z-index issue in modal
 
+fix error on empty request
+
