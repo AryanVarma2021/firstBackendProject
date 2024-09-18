@@ -1468,3 +1468,5 @@ fix crash on missing image
 
 fix bug in login form
 
+fix z-index issue in modal
+
