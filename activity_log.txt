@@ -1476,3 +1476,5 @@ remove commented-out code
 
 refactor DB query logic
 
+optimize image loading
+
