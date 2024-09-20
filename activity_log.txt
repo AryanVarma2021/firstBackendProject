@@ -1490,3 +1490,5 @@ adding add button backend logic
 
 update logic for cart item removal
 
+update JWT expiry logic
+
