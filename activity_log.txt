@@ -1492,3 +1492,5 @@ update logic for cart item removal
 
 update JWT expiry logic
 
+add indexing for faster queries
+
