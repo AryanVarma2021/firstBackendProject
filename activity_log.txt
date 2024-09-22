@@ -1500,3 +1500,5 @@ update seed data
 
 optimize SQL joins
 
+improve modal close behavior
+
