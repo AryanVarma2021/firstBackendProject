@@ -1494,3 +1494,5 @@ update JWT expiry logic
 
 add indexing for faster queries
 
+update seed data
+
