@@ -1498,3 +1498,5 @@ update seed data
 
 update seed data
 
+optimize SQL joins
+
