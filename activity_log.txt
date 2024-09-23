@@ -1510,3 +1510,5 @@ update user profile layout
 
 fix scrollbar visibility
 
+add comment blocks to main classes
+
