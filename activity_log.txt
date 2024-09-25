@@ -1518,3 +1518,5 @@ add dark mode toggle
 
 refactor code structure
 
+optimize image loading
+
