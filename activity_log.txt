@@ -1526,3 +1526,5 @@ fix infinite loop in polling
 
 add email notification system
 
+improve error handling
+
