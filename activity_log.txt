@@ -1530,3 +1530,5 @@ improve error handling
 
 adding add button backend logic
 
+change button hover effect
+
