@@ -1524,3 +1524,5 @@ optimize image loading
 
 fix infinite loop in polling
 
+add email notification system
+
