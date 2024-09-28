@@ -1532,3 +1532,5 @@ adding add button backend logic
 
 change button hover effect
 
+update badges in README
+
