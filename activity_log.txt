@@ -1522,3 +1522,5 @@ optimize image loading
 
 optimize image loading
 
+fix infinite loop in polling
+
