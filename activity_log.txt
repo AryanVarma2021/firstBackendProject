@@ -1534,3 +1534,5 @@ change button hover effect
 
 update badges in README
 
+split large file into modules
+
