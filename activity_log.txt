@@ -1546,3 +1546,5 @@ add token refresh endpoint
 
 refactor payment gateway integration
 
+optimize image loading
+
