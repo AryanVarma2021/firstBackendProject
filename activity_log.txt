@@ -1554,3 +1554,5 @@ improve UI responsiveness
 
 restructure folder hierarchy
 
+remove commented-out code
+
