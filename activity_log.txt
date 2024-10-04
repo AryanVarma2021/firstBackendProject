@@ -1562,3 +1562,5 @@ optimize image loading
 
 write tests for user service
 
+fix header logo alignment
+
