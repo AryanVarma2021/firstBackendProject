@@ -1548,3 +1548,5 @@ refactor payment gateway integration
 
 optimize image loading
 
+add loading spinner
+
