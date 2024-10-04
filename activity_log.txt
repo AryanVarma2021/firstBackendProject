@@ -1550,3 +1550,5 @@ optimize image loading
 
 add loading spinner
 
+improve UI responsiveness
+
