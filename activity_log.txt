@@ -1560,3 +1560,5 @@ add review and rating module
 
 optimize image loading
 
+write tests for user service
+
