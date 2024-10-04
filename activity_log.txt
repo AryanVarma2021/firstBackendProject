@@ -1552,3 +1552,5 @@ add loading spinner
 
 improve UI responsiveness
 
+restructure folder hierarchy
+
