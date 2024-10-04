@@ -1556,3 +1556,5 @@ restructure folder hierarchy
 
 remove commented-out code
 
+add review and rating module
+
