@@ -1558,3 +1558,5 @@ remove commented-out code
 
 add review and rating module
 
+optimize image loading
+
