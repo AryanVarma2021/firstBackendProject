@@ -1566,3 +1566,5 @@ fix header logo alignment
 
 add new migration script
 
+update dependencies
+
