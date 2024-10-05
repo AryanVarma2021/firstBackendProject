@@ -1570,3 +1570,5 @@ update dependencies
 
 write tests for user service
 
+update favicon
+
