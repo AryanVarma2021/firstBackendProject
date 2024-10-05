@@ -1568,3 +1568,5 @@ add new migration script
 
 update dependencies
 
+write tests for user service
+
