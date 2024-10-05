@@ -1564,3 +1564,5 @@ write tests for user service
 
 fix header logo alignment
 
+add new migration script
+
