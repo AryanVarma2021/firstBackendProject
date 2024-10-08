@@ -1574,3 +1574,5 @@ update favicon
 
 add loading spinner
 
+refactor image upload logic
+
