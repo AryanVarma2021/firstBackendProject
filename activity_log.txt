@@ -1580,3 +1580,5 @@ update seed data
 
 clarify usage section in docs
 
+add transition animations
+
