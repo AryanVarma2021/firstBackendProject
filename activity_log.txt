@@ -1584,3 +1584,5 @@ add transition animations
 
 add new migration script
 
+document new endpoints
+
