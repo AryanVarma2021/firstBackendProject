@@ -1582,3 +1582,5 @@ clarify usage section in docs
 
 add transition animations
 
+add new migration script
+
