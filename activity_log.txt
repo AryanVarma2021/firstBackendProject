@@ -1578,3 +1578,5 @@ refactor image upload logic
 
 update seed data
 
+clarify usage section in docs
+
