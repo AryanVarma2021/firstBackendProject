@@ -1594,3 +1594,5 @@ implement admin dashboard
 
 add new feature section
 
+update environment variable list
+
