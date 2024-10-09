@@ -1586,3 +1586,5 @@ add new migration script
 
 document new endpoints
 
+add wishlist feature
+
