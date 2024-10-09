@@ -1596,3 +1596,5 @@ add new feature section
 
 update environment variable list
 
+extract constants
+
