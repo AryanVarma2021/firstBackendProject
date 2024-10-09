@@ -1588,3 +1588,5 @@ document new endpoints
 
 add wishlist feature
 
+fix product search filtering
+
