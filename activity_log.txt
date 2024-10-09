@@ -1592,3 +1592,5 @@ fix product search filtering
 
 implement admin dashboard
 
+add new feature section
+
