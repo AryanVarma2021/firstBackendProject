@@ -1608,3 +1608,5 @@ optimize image loading
 
 implement admin dashboard
 
+fix typo in CONTRIBUTING.md
+
