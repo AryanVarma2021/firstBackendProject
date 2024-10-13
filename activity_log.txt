@@ -1612,3 +1612,5 @@ fix typo in CONTRIBUTING.md
 
 update code formatting
 
+write tests for user service
+
