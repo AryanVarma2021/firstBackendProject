@@ -1620,3 +1620,5 @@ adding encryption to database
 
 add comment blocks to main classes
 
+change color scheme
+
