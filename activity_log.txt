@@ -1622,3 +1622,5 @@ add comment blocks to main classes
 
 change color scheme
 
+add API documentation
+
