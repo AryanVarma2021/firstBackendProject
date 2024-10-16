@@ -1634,3 +1634,5 @@ refactor image upload logic
 
 update API response format
 
+write setup instructions
+
