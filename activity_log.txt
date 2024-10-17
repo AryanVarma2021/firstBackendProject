@@ -1636,3 +1636,5 @@ update API response format
 
 write setup instructions
 
+fix spacing between sections
+
