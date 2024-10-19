@@ -1640,3 +1640,5 @@ fix spacing between sections
 
 remove unused variables
 
+add type annotations
+
