@@ -1656,3 +1656,5 @@ enable multi-language support
 
 fix redirect after login
 
+write tests for user service
+
