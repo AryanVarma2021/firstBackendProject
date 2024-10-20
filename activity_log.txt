@@ -1654,3 +1654,5 @@ fix typo in documentation
 
 enable multi-language support
 
+fix redirect after login
+
