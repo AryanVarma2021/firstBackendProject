@@ -1666,3 +1666,5 @@ backend database model is built successfully
 
 add type annotations
 
+optimize SQL joins
+
