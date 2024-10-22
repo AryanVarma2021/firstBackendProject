@@ -1670,3 +1670,5 @@ optimize SQL joins
 
 add footer links
 
+fix typo in endpoint route
+
