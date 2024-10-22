@@ -1668,3 +1668,5 @@ add type annotations
 
 optimize SQL joins
 
+add footer links
+
