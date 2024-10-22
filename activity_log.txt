@@ -1672,3 +1672,5 @@ add footer links
 
 fix typo in endpoint route
 
+fix typo in endpoint route
+
