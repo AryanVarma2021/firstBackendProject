@@ -1682,3 +1682,5 @@ add payment receipt download
 
 add token refresh endpoint
 
+document new endpoints
+
