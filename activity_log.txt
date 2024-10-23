@@ -1684,3 +1684,5 @@ add token refresh endpoint
 
 document new endpoints
 
+add theme switcher button
+
