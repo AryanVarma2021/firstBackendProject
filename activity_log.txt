@@ -1686,3 +1686,5 @@ document new endpoints
 
 add theme switcher button
 
+add default values in schema
+
