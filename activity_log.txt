@@ -1692,3 +1692,5 @@ add API documentation
 
 integrate push notifications
 
+add indexing for faster queries
+
