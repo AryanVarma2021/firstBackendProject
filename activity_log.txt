@@ -1696,3 +1696,5 @@ add indexing for faster queries
 
 cleanup console logs
 
+add new illustration in hero section
+
