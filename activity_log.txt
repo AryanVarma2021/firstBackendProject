@@ -1694,3 +1694,5 @@ integrate push notifications
 
 add indexing for faster queries
 
+cleanup console logs
+
