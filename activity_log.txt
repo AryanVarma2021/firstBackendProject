@@ -1720,3 +1720,5 @@ improve modal close behavior
 
 add user activity log
 
+remove redundant code
+
