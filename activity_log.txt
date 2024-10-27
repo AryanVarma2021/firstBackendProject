@@ -1710,3 +1710,5 @@ optimize image loading
 
 fix typo in endpoint route
 
+fix session persistence bug
+
