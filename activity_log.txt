@@ -1718,3 +1718,5 @@ update user profile layout
 
 improve modal close behavior
 
+add user activity log
+
