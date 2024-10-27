@@ -1706,3 +1706,5 @@ add email notification system
 
 refactor code structure
 
+optimize image loading
+
