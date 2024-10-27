@@ -1714,3 +1714,5 @@ fix session persistence bug
 
 integrate OTP verification
 
+update user profile layout
+
