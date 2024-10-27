@@ -1708,3 +1708,5 @@ refactor code structure
 
 optimize image loading
 
+fix typo in endpoint route
+
