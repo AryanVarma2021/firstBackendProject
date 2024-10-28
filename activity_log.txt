@@ -1722,3 +1722,5 @@ add user activity log
 
 remove redundant code
 
+update logic for cart item removal
+
