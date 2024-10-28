@@ -1724,3 +1724,5 @@ remove redundant code
 
 update logic for cart item removal
 
+modularize API calls
+
