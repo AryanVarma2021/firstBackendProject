@@ -1736,3 +1736,5 @@ fix typo in CONTRIBUTING.md
 
 refactor payment gateway integration
 
+refactor utility functions
+
