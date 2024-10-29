@@ -1738,3 +1738,5 @@ refactor payment gateway integration
 
 refactor utility functions
 
+update user profile layout
+
