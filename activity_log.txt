@@ -1732,3 +1732,5 @@ add review and rating module
 
 add file upload handler
 
+fix typo in CONTRIBUTING.md
+
