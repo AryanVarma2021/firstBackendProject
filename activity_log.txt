@@ -1756,3 +1756,5 @@ change db column type
 
 implement admin dashboard
 
+align frame
+
