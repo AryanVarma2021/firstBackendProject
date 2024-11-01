@@ -1746,3 +1746,5 @@ reformat markdown tables
 
 update README with setup steps
 
+fix typo in CONTRIBUTING.md
+
