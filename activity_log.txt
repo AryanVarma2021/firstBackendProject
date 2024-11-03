@@ -1762,3 +1762,5 @@ add payment receipt download
 
 write setup instructions
 
+fix inconsistent naming conventions
+
