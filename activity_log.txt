@@ -1758,3 +1758,5 @@ implement admin dashboard
 
 align frame
 
+add payment receipt download
+
