@@ -1760,3 +1760,5 @@ align frame
 
 add payment receipt download
 
+write setup instructions
+
