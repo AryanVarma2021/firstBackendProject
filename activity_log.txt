@@ -1764,3 +1764,5 @@ write setup instructions
 
 fix inconsistent naming conventions
 
+add email notification system
+
