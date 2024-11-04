@@ -1766,3 +1766,5 @@ fix inconsistent naming conventions
 
 add email notification system
 
+add footer links
+
