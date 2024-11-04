@@ -1768,3 +1768,5 @@ add email notification system
 
 add footer links
 
+center-align login box
+
