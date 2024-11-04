@@ -1772,3 +1772,5 @@ center-align login box
 
 fix bug in signup flow
 
+simplify conditional logic
+
