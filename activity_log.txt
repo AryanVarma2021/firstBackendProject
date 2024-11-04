@@ -1774,3 +1774,5 @@ fix bug in signup flow
 
 simplify conditional logic
 
+fix inconsistent naming conventions
+
