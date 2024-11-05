@@ -1780,3 +1780,5 @@ restructure folder hierarchy
 
 integrate OTP verification
 
+handle null pointer in user service
+
