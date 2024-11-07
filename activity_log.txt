@@ -1782,3 +1782,5 @@ integrate OTP verification
 
 handle null pointer in user service
 
+implement soft delete for users
+
