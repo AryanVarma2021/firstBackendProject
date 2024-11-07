@@ -1786,3 +1786,5 @@ implement soft delete for users
 
 fix crash on missing image
 
+update layout for mobile responsiveness
+
