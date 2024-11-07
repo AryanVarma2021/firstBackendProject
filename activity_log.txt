@@ -1784,3 +1784,5 @@ handle null pointer in user service
 
 implement soft delete for users
 
+fix crash on missing image
+
