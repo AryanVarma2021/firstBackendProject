@@ -1790,3 +1790,5 @@ update layout for mobile responsiveness
 
 adjust card border radius
 
+handle null pointer in user service
+
