@@ -1796,3 +1796,5 @@ rename variables for clarity
 
 implement soft delete for users
 
+improve doc string clarity
+
