@@ -1792,3 +1792,5 @@ adjust card border radius
 
 handle null pointer in user service
 
+rename variables for clarity
+
