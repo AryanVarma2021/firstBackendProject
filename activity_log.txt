@@ -1816,3 +1816,5 @@ write setup instructions
 
 rename variables for clarity
 
+fix header logo alignment
+
