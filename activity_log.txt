@@ -1808,3 +1808,5 @@ update dependencies
 
 add review and rating module
 
+add type annotations
+
