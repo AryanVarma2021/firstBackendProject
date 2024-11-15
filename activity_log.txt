@@ -1806,3 +1806,5 @@ extract constants
 
 update dependencies
 
+add review and rating module
+
