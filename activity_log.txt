@@ -1814,3 +1814,5 @@ refactor code structure
 
 write setup instructions
 
+rename variables for clarity
+
