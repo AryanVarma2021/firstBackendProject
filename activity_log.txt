@@ -1826,3 +1826,5 @@ update README
 
 update badges in README
 
+improve modal close behavior
+
