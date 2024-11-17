@@ -1822,3 +1822,5 @@ add button at bottom
 
 fix scrollbar visibility
 
+update README
+
