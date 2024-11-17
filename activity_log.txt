@@ -1830,3 +1830,5 @@ improve modal close behavior
 
 fix session persistence bug
 
+improve user verification flow
+
