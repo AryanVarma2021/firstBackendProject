@@ -1832,3 +1832,5 @@ fix session persistence bug
 
 improve user verification flow
 
+update layout for mobile responsiveness
+
