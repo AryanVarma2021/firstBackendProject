@@ -1820,3 +1820,5 @@ fix header logo alignment
 
 add button at bottom
 
+fix scrollbar visibility
+
