@@ -1828,3 +1828,5 @@ update badges in README
 
 improve modal close behavior
 
+fix session persistence bug
+
