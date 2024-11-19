@@ -1838,3 +1838,5 @@ add dark mode toggle
 
 add footer links
 
+rename variables for clarity
+
