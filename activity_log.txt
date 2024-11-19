@@ -1836,3 +1836,5 @@ update layout for mobile responsiveness
 
 add dark mode toggle
 
+add footer links
+
