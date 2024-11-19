@@ -1840,3 +1840,5 @@ add footer links
 
 rename variables for clarity
 
+add user role validation
+
