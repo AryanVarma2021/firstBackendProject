@@ -1842,3 +1842,5 @@ rename variables for clarity
 
 add user role validation
 
+change db column type
+
