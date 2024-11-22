@@ -1870,3 +1870,5 @@ add file upload handler
 
 update changelog
 
+add icons to sidebar
+
