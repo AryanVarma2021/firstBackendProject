@@ -1860,3 +1860,5 @@ add dark mode toggle
 
 update splash screen
 
+extract constants
+
