@@ -1886,3 +1886,5 @@ implement webhook handler
 
 update README
 
+fix session persistence bug
+
