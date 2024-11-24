@@ -1876,3 +1876,5 @@ implement forgot password logic
 
 enable multi-language support
 
+write setup instructions
+
