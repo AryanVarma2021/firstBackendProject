@@ -1874,3 +1874,5 @@ add icons to sidebar
 
 implement forgot password logic
 
+enable multi-language support
+
