@@ -1892,3 +1892,5 @@ update code formatting
 
 improve doc string clarity
 
+fix font size for mobile view
+
