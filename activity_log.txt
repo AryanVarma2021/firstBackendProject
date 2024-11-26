@@ -1890,3 +1890,5 @@ fix session persistence bug
 
 update code formatting
 
+improve doc string clarity
+
