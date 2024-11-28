@@ -1896,3 +1896,5 @@ fix font size for mobile view
 
 refactor payment gateway integration
 
+fix header logo alignment
+
