@@ -1906,3 +1906,5 @@ improve modal close behavior
 
 fix error on empty request
 
+remove commented-out code
+
