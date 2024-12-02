@@ -1902,3 +1902,5 @@ implement admin dashboard
 
 implement two-factor auth
 
+improve modal close behavior
+
