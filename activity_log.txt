@@ -1914,3 +1914,5 @@ change button hover effect
 
 add theme switcher button
 
+update favicon
+
