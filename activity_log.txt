@@ -1916,3 +1916,5 @@ add theme switcher button
 
 update favicon
 
+add type annotations
+
