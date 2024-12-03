@@ -1912,3 +1912,5 @@ align navbar properly
 
 change button hover effect
 
+add theme switcher button
+
