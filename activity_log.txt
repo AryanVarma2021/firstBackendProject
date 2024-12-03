@@ -1922,3 +1922,5 @@ refactor class to hooks
 
 update dependencies
 
+improve doc string clarity
+
