@@ -1934,3 +1934,5 @@ fix alignment issue
 
 add API documentation
 
+integrate OTP verification
+
