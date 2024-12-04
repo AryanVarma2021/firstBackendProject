@@ -1938,3 +1938,5 @@ integrate OTP verification
 
 integrate OTP verification
 
+add logout functionality
+
