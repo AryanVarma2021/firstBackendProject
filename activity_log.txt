@@ -1926,3 +1926,5 @@ improve doc string clarity
 
 adjust card border radius
 
+add export to CSV option
+
