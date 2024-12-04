@@ -1930,3 +1930,5 @@ add export to CSV option
 
 fix product search filtering
 
+fix alignment issue
+
