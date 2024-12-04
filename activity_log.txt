@@ -1928,3 +1928,5 @@ adjust card border radius
 
 add export to CSV option
 
+fix product search filtering
+
