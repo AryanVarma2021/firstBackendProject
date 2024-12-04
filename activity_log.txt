@@ -1924,3 +1924,5 @@ update dependencies
 
 improve doc string clarity
 
+adjust card border radius
+
