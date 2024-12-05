@@ -1942,3 +1942,5 @@ add logout functionality
 
 add new feature section
 
+add architecture diagram
+
