@@ -1940,3 +1940,5 @@ integrate OTP verification
 
 add logout functionality
 
+add new feature section
+
