@@ -1944,3 +1944,5 @@ add new feature section
 
 add architecture diagram
 
+fix product search filtering
+
