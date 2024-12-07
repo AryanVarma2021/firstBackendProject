@@ -1962,3 +1962,5 @@ backend database model is built successfully
 
 add image carousel
 
+fix font size for mobile view
+
