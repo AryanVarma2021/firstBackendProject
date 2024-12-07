@@ -1960,3 +1960,5 @@ align navbar properly
 
 backend database model is built successfully
 
+add image carousel
+
