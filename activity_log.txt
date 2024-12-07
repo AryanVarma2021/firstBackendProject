@@ -1966,3 +1966,5 @@ fix font size for mobile view
 
 add logout functionality
 
+update dependencies
+
