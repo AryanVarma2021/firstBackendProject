@@ -1956,3 +1956,5 @@ add audit logging middleware
 
 add default values in schema
 
+align navbar properly
+
