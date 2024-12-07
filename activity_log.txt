@@ -1964,3 +1964,5 @@ add image carousel
 
 fix font size for mobile view
 
+add logout functionality
+
