@@ -1952,3 +1952,5 @@ optimize image loading
 
 implement admin dashboard
 
+add audit logging middleware
+
