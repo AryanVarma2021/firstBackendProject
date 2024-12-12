@@ -1968,3 +1968,5 @@ add logout functionality
 
 update dependencies
 
+add footer links
+
