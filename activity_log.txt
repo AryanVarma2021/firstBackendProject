@@ -1972,3 +1972,5 @@ add footer links
 
 fix product search filtering
 
+update environment variable list
+
