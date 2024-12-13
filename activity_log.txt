@@ -1974,3 +1974,5 @@ fix product search filtering
 
 update environment variable list
 
+optimize image loading
+
