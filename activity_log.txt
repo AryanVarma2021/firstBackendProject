@@ -1998,3 +1998,5 @@ fix font size for mobile view
 
 extract constants
 
+improve caching strategy
+
