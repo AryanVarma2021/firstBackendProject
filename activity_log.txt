@@ -1994,3 +1994,5 @@ improve error handling
 
 update API response format
 
+fix font size for mobile view
+
