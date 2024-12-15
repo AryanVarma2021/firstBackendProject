@@ -2000,3 +2000,5 @@ extract constants
 
 improve caching strategy
 
+add theme switcher button
+
