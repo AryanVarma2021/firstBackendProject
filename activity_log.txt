@@ -2006,3 +2006,5 @@ write tests for user service
 
 add API documentation
 
+fix bug in signup flow
+
