@@ -2004,3 +2004,5 @@ add theme switcher button
 
 write tests for user service
 
+add API documentation
+
