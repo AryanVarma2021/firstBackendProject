@@ -2016,3 +2016,5 @@ add token refresh endpoint
 
 implement admin dashboard
 
+document new endpoints
+
