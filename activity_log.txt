@@ -2020,3 +2020,5 @@ document new endpoints
 
 change button hover effect
 
+update badges in README
+
