@@ -2022,3 +2022,5 @@ change button hover effect
 
 update badges in README
 
+implement theme persistence
+
