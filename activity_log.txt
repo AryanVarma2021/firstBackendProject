@@ -2028,3 +2028,5 @@ update README with setup steps
 
 update changelog
 
+write setup instructions
+
