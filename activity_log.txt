@@ -2026,3 +2026,5 @@ implement theme persistence
 
 update README with setup steps
 
+update changelog
+
