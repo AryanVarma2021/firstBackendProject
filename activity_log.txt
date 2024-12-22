@@ -2024,3 +2024,5 @@ update badges in README
 
 implement theme persistence
 
+update README with setup steps
+
