@@ -2034,3 +2034,5 @@ refactor DB query logic
 
 add theme switcher button
 
+fix broken image in README
+
