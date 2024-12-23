@@ -2040,3 +2040,5 @@ restructure folder hierarchy
 
 refactor class to hooks
 
+fix scrollbar visibility
+
