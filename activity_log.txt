@@ -2032,3 +2032,5 @@ write setup instructions
 
 refactor DB query logic
 
+add theme switcher button
+
