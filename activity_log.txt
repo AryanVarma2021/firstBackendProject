@@ -2036,3 +2036,5 @@ add theme switcher button
 
 fix broken image in README
 
+restructure folder hierarchy
+
