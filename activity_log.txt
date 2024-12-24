@@ -2050,3 +2050,5 @@ fix inconsistent naming conventions
 
 change button hover effect
 
+fix typo in endpoint route
+
