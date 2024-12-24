@@ -2052,3 +2052,5 @@ change button hover effect
 
 fix typo in endpoint route
 
+add rate limiter
+
