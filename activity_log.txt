@@ -2054,3 +2054,5 @@ fix typo in endpoint route
 
 add rate limiter
 
+fix error on empty request
+
