@@ -2056,3 +2056,5 @@ add rate limiter
 
 fix error on empty request
 
+optimize SQL joins
+
