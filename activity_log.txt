@@ -2068,3 +2068,5 @@ fix primary key conflict
 
 add token refresh endpoint
 
+add user activity log
+
