@@ -2058,3 +2058,5 @@ fix error on empty request
 
 optimize SQL joins
 
+refactor code structure
+
