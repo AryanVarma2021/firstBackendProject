@@ -2064,3 +2064,5 @@ add new migration script
 
 update seed data
 
+fix primary key conflict
+
