@@ -2082,3 +2082,5 @@ improve modal close behavior
 
 fix typo in documentation
 
+add export to CSV option
+
