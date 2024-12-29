@@ -2080,3 +2080,5 @@ implement dark mode
 
 improve modal close behavior
 
+fix typo in documentation
+
