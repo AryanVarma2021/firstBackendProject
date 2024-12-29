@@ -2076,3 +2076,5 @@ remove unused imports
 
 update badges in README
 
+implement dark mode
+
