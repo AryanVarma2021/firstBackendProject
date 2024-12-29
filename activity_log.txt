@@ -2078,3 +2078,5 @@ update badges in README
 
 implement dark mode
 
+improve modal close behavior
+
