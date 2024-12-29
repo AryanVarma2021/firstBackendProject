@@ -2074,3 +2074,5 @@ add image carousel
 
 remove unused imports
 
+update badges in README
+
