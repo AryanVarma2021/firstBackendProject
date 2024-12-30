@@ -2084,3 +2084,5 @@ fix typo in documentation
 
 add export to CSV option
 
+add theme switcher button
+
