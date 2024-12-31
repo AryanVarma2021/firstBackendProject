@@ -2094,3 +2094,5 @@ rename variables for clarity
 
 refactor DB query logic
 
+add API documentation
+
