@@ -2098,3 +2098,5 @@ add API documentation
 
 optimize SQL joins
 
+clarify usage section in docs
+
