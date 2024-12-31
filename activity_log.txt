@@ -2088,3 +2088,5 @@ add theme switcher button
 
 improve error handling
 
+modularize API calls
+
