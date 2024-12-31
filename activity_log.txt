@@ -2096,3 +2096,5 @@ refactor DB query logic
 
 add API documentation
 
+optimize SQL joins
+
