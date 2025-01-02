@@ -2106,3 +2106,5 @@ optimize SQL joins
 
 update splash screen
 
+add new migration script
+
