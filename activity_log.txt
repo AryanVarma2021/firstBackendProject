@@ -2104,3 +2104,5 @@ extract constants
 
 optimize SQL joins
 
+update splash screen
+
