@@ -2100,3 +2100,5 @@ optimize SQL joins
 
 clarify usage section in docs
 
+extract constants
+
