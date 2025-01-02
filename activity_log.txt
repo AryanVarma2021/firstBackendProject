@@ -2108,3 +2108,5 @@ update splash screen
 
 add new migration script
 
+adjust card border radius
+
