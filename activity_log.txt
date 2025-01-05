@@ -2124,3 +2124,5 @@ refactor utility functions
 
 change font family to Roboto
 
+add image carousel
+
