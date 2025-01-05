@@ -2120,3 +2120,5 @@ remove unused variables
 
 change font family to Roboto
 
+refactor utility functions
+
