@@ -2126,3 +2126,5 @@ change font family to Roboto
 
 add image carousel
 
+fix bug in signup flow
+
