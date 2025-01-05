@@ -2128,3 +2128,5 @@ add image carousel
 
 fix bug in signup flow
 
+add type annotations
+
