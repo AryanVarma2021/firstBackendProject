@@ -2138,3 +2138,5 @@ refactor image upload logic
 
 remove redundant code
 
+remove unused variables
+
