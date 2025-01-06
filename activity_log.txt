@@ -2136,3 +2136,5 @@ extract constants
 
 refactor image upload logic
 
+remove redundant code
+
