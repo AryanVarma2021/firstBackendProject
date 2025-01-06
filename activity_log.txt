@@ -2134,3 +2134,5 @@ add comments for clarity
 
 extract constants
 
+refactor image upload logic
+
