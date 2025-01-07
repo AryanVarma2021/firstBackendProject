@@ -2142,3 +2142,5 @@ remove unused variables
 
 add theme switcher button
 
+optimize image loading
+
