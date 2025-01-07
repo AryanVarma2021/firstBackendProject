@@ -2144,3 +2144,5 @@ add theme switcher button
 
 optimize image loading
 
+align frame
+
