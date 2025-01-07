@@ -2140,3 +2140,5 @@ remove redundant code
 
 remove unused variables
 
+add theme switcher button
+
