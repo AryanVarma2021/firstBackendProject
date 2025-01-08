@@ -2160,3 +2160,5 @@ improve modal close behavior
 
 improve modal close behavior
 
+add new migration script
+
