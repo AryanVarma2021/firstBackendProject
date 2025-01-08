@@ -2158,3 +2158,5 @@ remove commented-out code
 
 improve modal close behavior
 
+improve modal close behavior
+
