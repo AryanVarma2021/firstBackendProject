@@ -2162,3 +2162,5 @@ improve modal close behavior
 
 add new migration script
 
+fix font size for mobile view
+
