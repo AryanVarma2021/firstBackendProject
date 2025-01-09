@@ -2164,3 +2164,5 @@ add new migration script
 
 fix font size for mobile view
 
+document new endpoints
+
