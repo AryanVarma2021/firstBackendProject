@@ -2180,3 +2180,5 @@ refactor image upload logic
 
 fix inconsistent naming conventions
 
+update logic for cart item removal
+
