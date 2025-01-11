@@ -2172,3 +2172,5 @@ remove unused imports
 
 refactor image upload logic
 
+cleanup console logs
+
