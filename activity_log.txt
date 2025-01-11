@@ -2174,3 +2174,5 @@ refactor image upload logic
 
 cleanup console logs
 
+reformat markdown tables
+
