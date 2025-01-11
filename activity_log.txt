@@ -2178,3 +2178,5 @@ reformat markdown tables
 
 refactor image upload logic
 
+fix inconsistent naming conventions
+
