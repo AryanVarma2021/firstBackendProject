@@ -2182,3 +2182,5 @@ fix inconsistent naming conventions
 
 update logic for cart item removal
 
+implement theme persistence
+
