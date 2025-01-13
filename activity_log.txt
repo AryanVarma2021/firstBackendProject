@@ -2186,3 +2186,5 @@ implement theme persistence
 
 center-align login box
 
+fix infinite loop in polling
+
