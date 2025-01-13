@@ -2192,3 +2192,5 @@ add review and rating module
 
 remove unused variables
 
+change db column type
+
