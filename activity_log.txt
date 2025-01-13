@@ -2188,3 +2188,5 @@ center-align login box
 
 fix infinite loop in polling
 
+add review and rating module
+
