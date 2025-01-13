@@ -2184,3 +2184,5 @@ update logic for cart item removal
 
 implement theme persistence
 
+center-align login box
+
