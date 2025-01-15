@@ -2200,3 +2200,5 @@ update API response format
 
 add payment receipt download
 
+update changelog
+
