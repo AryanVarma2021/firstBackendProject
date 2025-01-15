@@ -2202,3 +2202,5 @@ add payment receipt download
 
 update changelog
 
+add rate limiter
+
