@@ -2206,3 +2206,5 @@ add rate limiter
 
 fix font size for mobile view
 
+modularize API calls
+
