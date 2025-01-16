@@ -2214,3 +2214,5 @@ add email notification system
 
 refactor form components
 
+fix typo in CONTRIBUTING.md
+
