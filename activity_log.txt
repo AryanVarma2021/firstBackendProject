@@ -2208,3 +2208,5 @@ fix font size for mobile view
 
 modularize API calls
 
+fix product search filtering
+
