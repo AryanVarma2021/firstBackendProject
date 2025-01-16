@@ -2216,3 +2216,5 @@ refactor form components
 
 fix typo in CONTRIBUTING.md
 
+handle null pointer in user service
+
