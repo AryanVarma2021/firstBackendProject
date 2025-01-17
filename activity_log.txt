@@ -2230,3 +2230,5 @@ update changelog
 
 update README with setup steps
 
+remove redundant code
+
