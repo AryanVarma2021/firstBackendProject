@@ -2228,3 +2228,5 @@ improve form validation UI
 
 update changelog
 
+update README with setup steps
+
