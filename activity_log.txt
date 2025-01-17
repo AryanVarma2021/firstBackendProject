@@ -2222,3 +2222,5 @@ update layout for mobile responsiveness
 
 update JWT expiry logic
 
+write setup instructions
+
