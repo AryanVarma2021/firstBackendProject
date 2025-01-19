@@ -2232,3 +2232,5 @@ update README with setup steps
 
 remove redundant code
 
+rename variables for clarity
+
