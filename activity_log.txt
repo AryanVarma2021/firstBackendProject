@@ -2234,3 +2234,5 @@ remove redundant code
 
 rename variables for clarity
 
+implement theme persistence
+
