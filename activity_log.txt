@@ -2236,3 +2236,5 @@ rename variables for clarity
 
 implement theme persistence
 
+improve error handling
+
