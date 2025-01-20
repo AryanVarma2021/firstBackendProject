@@ -2242,3 +2242,5 @@ add button at bottom
 
 restructure folder hierarchy
 
+remove redundant code
+
