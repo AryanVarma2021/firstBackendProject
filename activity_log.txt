@@ -2252,3 +2252,5 @@ integrate OTP verification
 
 add export to CSV option
 
+modularize API calls
+
