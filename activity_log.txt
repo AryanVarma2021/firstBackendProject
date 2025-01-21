@@ -2244,3 +2244,5 @@ restructure folder hierarchy
 
 remove redundant code
 
+fix inconsistent naming conventions
+
