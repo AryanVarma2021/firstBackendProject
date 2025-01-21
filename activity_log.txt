@@ -2254,3 +2254,5 @@ add export to CSV option
 
 modularize API calls
 
+update favicon
+
