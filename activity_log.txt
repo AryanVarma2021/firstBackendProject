@@ -2246,3 +2246,5 @@ remove redundant code
 
 fix inconsistent naming conventions
 
+update favicon
+
