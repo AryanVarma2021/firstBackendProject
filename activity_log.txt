@@ -2264,3 +2264,5 @@ refactor class to hooks
 
 add review and rating module
 
+fix redirect after login
+
