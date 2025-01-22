@@ -2260,3 +2260,5 @@ integrate social login
 
 fix scrollbar visibility
 
+refactor class to hooks
+
