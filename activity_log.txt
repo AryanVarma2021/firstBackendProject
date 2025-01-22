@@ -2256,3 +2256,5 @@ modularize API calls
 
 update favicon
 
+integrate social login
+
