@@ -2266,3 +2266,5 @@ add review and rating module
 
 fix redirect after login
 
+fix inconsistent naming conventions
+
