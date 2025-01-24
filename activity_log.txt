@@ -2280,3 +2280,5 @@ add email notification system
 
 simplify conditional logic
 
+fix typo in endpoint route
+
