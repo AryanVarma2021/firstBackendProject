@@ -2274,3 +2274,5 @@ add button at bottom
 
 integrate OTP verification
 
+fix header logo alignment
+
