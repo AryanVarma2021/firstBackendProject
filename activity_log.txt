@@ -2278,3 +2278,5 @@ fix header logo alignment
 
 add email notification system
 
+simplify conditional logic
+
