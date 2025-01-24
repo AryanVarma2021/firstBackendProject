@@ -2268,3 +2268,5 @@ fix redirect after login
 
 fix inconsistent naming conventions
 
+update environment variable list
+
