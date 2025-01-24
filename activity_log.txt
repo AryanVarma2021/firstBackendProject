@@ -2276,3 +2276,5 @@ integrate OTP verification
 
 fix header logo alignment
 
+add email notification system
+
