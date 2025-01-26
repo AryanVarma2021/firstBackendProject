@@ -2284,3 +2284,5 @@ fix typo in endpoint route
 
 add architecture diagram
 
+fix scrollbar visibility
+
