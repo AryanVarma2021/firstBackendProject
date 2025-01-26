@@ -2282,3 +2282,5 @@ simplify conditional logic
 
 fix typo in endpoint route
 
+add architecture diagram
+
