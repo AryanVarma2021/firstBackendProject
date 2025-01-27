@@ -2294,3 +2294,5 @@ add new illustration in hero section
 
 implement admin dashboard
 
+update README
+
