@@ -2296,3 +2296,5 @@ implement admin dashboard
 
 update README
 
+fix typo in documentation
+
