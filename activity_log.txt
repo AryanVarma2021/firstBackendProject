@@ -2300,3 +2300,5 @@ fix typo in documentation
 
 cleanup console logs
 
+refactor class to hooks
+
