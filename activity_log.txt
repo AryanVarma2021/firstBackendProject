@@ -2290,3 +2290,5 @@ refactor class to hooks
 
 change font family to Roboto
 
+add new illustration in hero section
+
