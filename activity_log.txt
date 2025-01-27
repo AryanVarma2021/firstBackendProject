@@ -2298,3 +2298,5 @@ update README
 
 fix typo in documentation
 
+cleanup console logs
+
