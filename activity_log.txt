@@ -2302,3 +2302,5 @@ cleanup console logs
 
 refactor class to hooks
 
+implement dark mode
+
