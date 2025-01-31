@@ -2312,3 +2312,5 @@ add email notification system
 
 add default values in schema
 
+write setup instructions
+
