@@ -2310,3 +2310,5 @@ fix scrollbar visibility
 
 add email notification system
 
+add default values in schema
+
