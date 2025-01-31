@@ -2306,3 +2306,5 @@ implement dark mode
 
 implement two-factor auth
 
+fix scrollbar visibility
+
