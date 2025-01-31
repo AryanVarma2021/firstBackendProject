@@ -2308,3 +2308,5 @@ implement two-factor auth
 
 fix scrollbar visibility
 
+add email notification system
+
