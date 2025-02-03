@@ -2324,3 +2324,5 @@ add transition animations
 
 remove redundant code
 
+add new feature section
+
