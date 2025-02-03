@@ -2328,3 +2328,5 @@ add new feature section
 
 improve modal close behavior
 
+change color scheme
+
