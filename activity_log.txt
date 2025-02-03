@@ -2330,3 +2330,5 @@ improve modal close behavior
 
 change color scheme
 
+write tests for user service
+
