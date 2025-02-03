@@ -2322,3 +2322,5 @@ update seed data
 
 add transition animations
 
+remove redundant code
+
