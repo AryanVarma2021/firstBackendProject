@@ -2326,3 +2326,5 @@ remove redundant code
 
 add new feature section
 
+improve modal close behavior
+
