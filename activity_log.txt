@@ -2332,3 +2332,5 @@ change color scheme
 
 write tests for user service
 
+simplify conditional logic
+
