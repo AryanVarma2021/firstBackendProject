@@ -2336,3 +2336,5 @@ simplify conditional logic
 
 fix font size for mobile view
 
+improve modal close behavior
+
