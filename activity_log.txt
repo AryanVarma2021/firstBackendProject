@@ -2334,3 +2334,5 @@ write tests for user service
 
 simplify conditional logic
 
+fix font size for mobile view
+
