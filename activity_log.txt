@@ -2342,3 +2342,5 @@ fix product search filtering
 
 adding backend functionalities
 
+add comment blocks to main classes
+
