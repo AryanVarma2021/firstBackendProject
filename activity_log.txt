@@ -2340,3 +2340,5 @@ improve modal close behavior
 
 fix product search filtering
 
+adding backend functionalities
+
