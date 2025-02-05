@@ -2346,3 +2346,5 @@ add comment blocks to main classes
 
 fix redirect after login
 
+fix z-index issue in modal
+
