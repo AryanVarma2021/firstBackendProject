@@ -2348,3 +2348,5 @@ fix redirect after login
 
 fix z-index issue in modal
 
+document new endpoints
+
