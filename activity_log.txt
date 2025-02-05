@@ -2338,3 +2338,5 @@ fix font size for mobile view
 
 improve modal close behavior
 
+fix product search filtering
+
