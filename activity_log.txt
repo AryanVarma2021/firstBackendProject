@@ -2350,3 +2350,5 @@ fix z-index issue in modal
 
 document new endpoints
 
+add payment receipt download
+
