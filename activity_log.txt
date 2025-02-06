@@ -2354,3 +2354,5 @@ add payment receipt download
 
 update favicon
 
+remove redundant code
+
