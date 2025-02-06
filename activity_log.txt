@@ -2356,3 +2356,5 @@ update favicon
 
 remove redundant code
 
+fix font size for mobile view
+
