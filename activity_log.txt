@@ -2352,3 +2352,5 @@ document new endpoints
 
 add payment receipt download
 
+update favicon
+
