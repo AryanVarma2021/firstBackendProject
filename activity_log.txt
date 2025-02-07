@@ -2366,3 +2366,5 @@ handle null pointer in user service
 
 update seed data
 
+update schema for orders table
+
