@@ -2360,3 +2360,5 @@ fix font size for mobile view
 
 extract constants
 
+fix crash on missing image
+
