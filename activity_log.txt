@@ -2362,3 +2362,5 @@ extract constants
 
 fix crash on missing image
 
+handle null pointer in user service
+
