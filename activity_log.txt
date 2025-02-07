@@ -2368,3 +2368,5 @@ update seed data
 
 update schema for orders table
 
+update dependencies
+
