@@ -2374,3 +2374,5 @@ improve caching strategy
 
 add comment blocks to main classes
 
+add default values in schema
+
