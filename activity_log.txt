@@ -2380,3 +2380,5 @@ fix bug in login form
 
 fix inconsistent naming conventions
 
+adding encryption to database
+
