@@ -2390,3 +2390,5 @@ remove unused imports
 
 adding backend functionalities
 
+document new endpoints
+
