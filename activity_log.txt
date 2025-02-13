@@ -2394,3 +2394,5 @@ document new endpoints
 
 improve UI responsiveness
 
+add new feature section
+
